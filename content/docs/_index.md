@@ -1,9 +1,7 @@
 ---
-title: ReproNim Guide
-type: resources
+title: Documentation
+type: docs
 ---
-
-## The ReproNim Guide/The ReproNim Handbook
 
 ### ReproNim Core Toolset (tools featured in use case for now)
 
@@ -26,3 +24,12 @@ Here we list test products, scripts, other things that might be useful, but at t
 - How do I convert from DICOM to BIDS
 - How do I create a data dictionary?
 - How to configure SPM/Freesurfer to …
+
+### Training Materials
+- ReproNim training materials
+
+
+### MISC
+- Sample NIH Data Management and Sharing Plan for neuroimaging
+- ReproNim User Personas
+- FAQs

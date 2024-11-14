@@ -22,17 +22,17 @@ menu:
     #   pageRef: /docs
     #   weight: 1
     - name: About
-      pageRef: /about/index.html
+      pageRef: /about/
       weight: 2
-    - name: Resources
-      pageRef: /resources/index.html
+    - name: Documentation
+      pageRef: /docs/
       weight: 3
-    - name: Participate
-      pageRef: /participate/index.html
+    - name: Fellowship
+      pageRef: /fellowship/
+      weight: 5
+    - name: Community
+      pageRef: /community/
       weight: 7
-    - name: Help
-      pageRef: /help/index.html
-      weight: 15
     # - name: Contact ↗
     #   url: "https://github.com/imfing"
     #   weight: 15
@@ -47,10 +47,10 @@ params:
     displayLogo: true
     logo:
       path: images/logo-square-256.png
-      width: 50 
+      width: 50
 
   footer:
-    displayCopyright: false
+    displayCopyright: true
     displayPoweredBy: true
 
   editURL:

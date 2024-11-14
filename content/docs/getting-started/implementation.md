@@ -1,5 +1,5 @@
 ---
-title: Basic implementations
+title: Implementation
 linkTitle: Implementations
 type: docs
 weight: 5
