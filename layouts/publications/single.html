@@ -1,0 +1,15 @@
+{{ define "main" }}
+  <article>
+    <h1>{{ .Title }}</h1>
+    <p>By:
+      {{ range $index, $author := .Params.authors }}
+        {{ if $index }}, {{ end }}
+        <a href="{{ "/authors/" | relURL }}{{ $author | urlize }}">{{ $author }}</a>
+      {{ end }}
+    </p>
+    <p>{{ .Date.Format "January 2, 2006" }}</p>
+    <div>
+      {{ .Content }}
+    </div>
+  </article>
+{{ end }}
