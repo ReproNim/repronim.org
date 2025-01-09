@@ -5,7 +5,9 @@ weight: 2
 
 ReproNim's philosophy is to incorporate reproducible practices into the typical neuroimaging workflow.  These practices ensure more robust, well documented studies at the end for you, your colleagues, and your peers.
 
-ReproNim offers best practices, tools, and training to implement reproducible neuroimaging in your lab.
+## New demo change
+
+blah
 
 Our website provides a number of resources:
 
