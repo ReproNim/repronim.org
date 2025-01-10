@@ -11,7 +11,7 @@ Open Brain Consent is well-established and mature, with occasional minor updates
 
 ## Innovation
 
-Prior to Open Brain Consent, there was no commonly accepted consent form template for neuroimaging.
+Open Brain Consent provides consent form template for neuroimaging that is commonly accepted "out of the box".
 
 ## Citation information
 
