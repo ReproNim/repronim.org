@@ -3,7 +3,7 @@ title: "Open Brain Consent"
 weight: 120
 ---
 
-Open Brain Consent is a consent form template for consent form allow imaging data to be shared as openly as possible while providing adequate guarantees for research participants' privacy.
+Open Brain Consent is a consent form template to allow imaging data to be shared as openly as possible while providing adequate guarantees for research participants' privacy.
 
 ## Development status
 
