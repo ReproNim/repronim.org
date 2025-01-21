@@ -1,0 +1,37 @@
+#!/bin/bash
+#
+# Provide DOIs to import
+#
+# Uses "academic" (pip install academic) and bibtool (apt install bibtool)
+
+set -eu
+
+topd=$(dirname "$0")/..
+pubdir="$topd/content/publications"
+bibs="$pubdir/publications.bib"
+
+
+echo "Storing BibTeX records into $bibs"
+for arg in "$@"; do
+    doi=$(echo "$arg" | sed -e 's,https*://.*doi\.org/,,g')
+    if grep -q "$doi" "$bibs" 2>/dev/null; then
+        echo "DOI $doi already known to $bibs. skipping"
+        continue
+    fi
+    mkdir -p "$pubdir"
+    touch "$bibs"
+    if ! curl --silent -L -d "" --header "Accept: application/x-bibtex; charset=utf-8" https://doi.org/$doi | sed -e 's,%2F,/,g' >> "$bibs"; then
+        echo "ERROR: failed to fetch bibtex for doi $doi"
+        exit 1
+    fi
+done
+
+bibtool -s -i "$bibs" -o "$bibs"
+
+if [ -e "$bibs" ]; then
+    echo "Importing"
+    academic import --compact "$bibs" "$pubdir"
+    git status "$pubdir"
+else
+    echo "No $bibs, nothing todo"
+fi
