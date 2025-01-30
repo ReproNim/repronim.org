@@ -23,7 +23,7 @@ Who would you like to hear from?
 <link rel="stylesheet" href="/css/personas.css">
 <div class="persona">
     <a href="#sarah">
-        <img src="/images/sarah.jpg" alt="Sarah">
+        <img src="/images/sarah.jpg" alt="Early to mid career researcher">
     </a>
     <p>
         Hi, I'm Sarah.  I'm an early- to mid-career researcher.  I'm  interested in applying best practices to my day-to-day research workflow.  <a href="#sarah">Read more.</a>
@@ -32,7 +32,7 @@ Who would you like to hear from?
 
 <div class="persona">
     <a href="#richard">
-        <img src="/images/richard.jpg" alt="Richard">
+        <img src="/images/richard.jpg" alt="Software engineer">
     </a>
     <p>
         Hi, I'm Richard.  I'm a research software engineer.  I want to incorporate more standards into the technical operations of my lab and learn more about how to effectively share workflows with my clients.  <a href="#richard">Read more.</a>
@@ -41,7 +41,7 @@ Who would you like to hear from?
 
 <div class="persona">
     <a href="#john">
-        <img src="/images/john.jpg" alt="John">
+        <img src="/images/john.jpg" alt="Neuroscientist and teacher">
     </a>
     <p>
         Hi, I'm John.  I'm a university-based computational neuroscientist and teacher.  I would like to see what resources are available for my teaching about rigor and reproducibility. <a href="#john">Read more.</a>
@@ -50,7 +50,7 @@ Who would you like to hear from?
 
 <div class="persona">
     <a href="#evelyn">
-        <img src="/images/evelyn.jpg" alt="Evelyn">
+        <img src="/images/evelyn.jpg" alt="Multi-center project director">
     </a>
     <p>
       Hi, I'm Evelyn.  I'm the director of a multi-center distributed project.  My interest is in harmonizing the research being performed at several sites. <a href="#evelyn">Read more.</a>
