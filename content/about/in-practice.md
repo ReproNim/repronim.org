@@ -1,5 +1,5 @@
 ---
-title: Reproducible Neuroimaging in Practice
+title: "Reproducible Neuroimaging: Principles and Actions"
 type: docs
 weight: 80
 ---
