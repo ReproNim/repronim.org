@@ -22,7 +22,7 @@ Who would you like to hear from?
 
 <link rel="stylesheet" href="/css/personas.css">
 <div class="persona">
-    <a href="#sarah">
+    <a href="#Early/mid career researcher">
         <img src="/images/sarah.jpg" alt="Sarah">
     </a>
     <p>
@@ -31,7 +31,7 @@ Who would you like to hear from?
 </div>
 
 <div class="persona">
-    <a href="#richard">
+    <a href="#Software engineer">
         <img src="/images/richard.jpg" alt="Richard">
     </a>
     <p>
@@ -40,7 +40,7 @@ Who would you like to hear from?
 </div>
 
 <div class="persona">
-    <a href="#john">
+    <a href="#Computational neuroscientist/teacher">
         <img src="/images/john.jpg" alt="John">
     </a>
     <p>
@@ -49,7 +49,7 @@ Who would you like to hear from?
 </div>
 
 <div class="persona">
-    <a href="#evelyn">
+    <a href="#Multi-center project director">
         <img src="/images/evelyn.jpg" alt="Evelyn">
     </a>
     <p>
