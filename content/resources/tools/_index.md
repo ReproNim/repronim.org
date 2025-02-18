@@ -28,3 +28,4 @@ This section describes core tools and standards produced by ReproNim.  For a mor
 ## Best Practices
 
 - [ReproIn](reproin/index.html): Convention and helpers for naming and organization of MRI sequences for turnkey DICOM to BIDS conversion.
+- [Open Brain Consent](open-brain-consent/): An "out of the box" consent form template to allow imaging data to be shared as openly as possible while providing adequate guarantees for research participants' privacy.
