@@ -1,0 +1,157 @@
+---
+title: Image processing and analysis methods for the Adolescent Brain Cognitive Development
+  Study
+authors:
+- Donald J. Hagler
+- SeanN. Hatton
+- M. Daniela Cornejo
+- Carolina Makowski
+- Damien A. Fair
+- Anthony Steven Dick
+- Matthew T. Sutherland
+- B.J. Casey
+- Deanna M. Barch
+- Michael P. Harms
+- Richard Watts
+- James M. Bjork
+- Hugh P. Garavan
+- Laura Hilmer
+- Christopher J. Pung
+- Chelsea S. Sicat
+- Joshua Kuperman
+- Hauke Bartsch
+- Feng Xue
+- Mary M. Heitzeg
+- Angela R. Laird
+- Thanh T. Trinh
+- Raul Gonzalez
+- Susan F. Tapert
+- Michael C. Riedel
+- Lindsay M. Squeglia
+- Luke W. Hyde
+- Monica D. Rosenberg
+- Eric A. Earl
+- Katia D. Howlett
+- Fiona C. Baker
+- Mary Soules
+- Jazmin Diaz
+- Octavio Ruiz de Leon
+- Wesley K. Thompson
+- Michael C. Neale
+- Megan Herting
+- Elizabeth R. Sowell
+- Ruben P. Alvarez
+- Samuel W. Hawes
+- Mariana Sanchez
+- Jerzy Bodurka
+- Florence J. Breslin
+- Amanda Sheffield Morris
+- Martin P. Paulus
+- W. Kyle Simmons
+- Jonathan R. Polimeni
+- Andre van der Kouwe
+- Andrew S. Nencka
+- Kevin M. Gray
+- Carlo Pierpaoli
+- John A. Matochik
+- Antonio Noronha
+- Will M. Aklin
+- Kevin Conway
+- Meyer Glantz
+- Elizabeth Hoffman
+- Roger Little
+- Marsha Lopez
+- Vani Pariyadath
+- Susan RB. Weiss
+- Dana L. Wolff-Hughes
+- Rebecca DelCarmen-Wiggins
+- Sarah W. Feldstein Ewing
+- Oscar Miranda-Dominguez
+- Bonnie J. Nagel
+- Anders J. Perrone
+- Darrick T. Sturgeon
+- Aimee Goldstone
+- Adolf Pfefferbaum
+- Kilian M. Pohl
+- Devin Prouty
+- Kristina Uban
+- Susan Y. Bookheimer
+- Mirella Dapretto
+- Adriana Galvan
+- Kara Bagot
+- Jay Giedd
+- M. Alejandra Infante
+- Joanna Jacobus
+- Kevin Patrick
+- Paul D. Shilling
+- Rahul Desikan
+- Yi Li
+- Leo Sugrue
+- Marie T. Banich
+- Naomi Friedman
+- John K. Hewitt
+- Christian Hopfer
+- Joseph Sakai
+- Jody Tanabe
+- Linda B. Cottler
+- Sara Jo Nixon
+- Linda Chang
+- Christine Cloak
+- Thomas Ernst
+- Gloria Reeves
+- David N. Kennedy
+- Steve Heeringa
+- Scott Peltier
+- John Schulenberg
+- Chandra Sripada
+- Robert A. Zucker
+- William G. Iacono
+- Monica Luciana
+- Finnegan J. Calabro
+- Duncan B. Clark
+- David A. Lewis
+- Beatriz Luna
+- Claudiu Schirda
+- Tufikameni Brima
+- John J. Foxe
+- Edward G. Freedman
+- Daniel W. Mruzek
+- Michael J. Mason
+- Rebekah Huber
+- Erin McGlade
+- Andrew Prescot
+- Perry F. Renshaw
+- Deborah A. Yurgelun-Todd
+- Nicholas A. Allgaier
+- Julie A. Dumas
+- Masha Ivanova
+- Alexandra Potter
+- Paul Florsheim
+- Christine Larson
+- Krista Lisdahl
+- Michael E. Charness
+- Bernard Fuemmeler
+- John M. Hettema
+- Hermine H. Maes
+- Joel Steinberg
+- Andrey P. Anokhin
+- Paul Glaser
+- Andrew C. Heath
+- Pamela A. Madden
+- Arielle Baskin-Sommers
+- R. Todd Constable
+- Steven J. Grant
+- Gayathri J. Dowling
+- Sandra A. Brown
+- Terry L. Jernigan
+- Anders M. Dale
+date: '2019-11-01'
+publishDate: '2024-12-19T23:16:36.486880Z'
+publication_types:
+- article-journal
+publication: '*NeuroImage*'
+doi: 10.1016/j.neuroimage.2019.116091
+links:
+- name: URL
+  url: http://dx.doi.org/10.1016/j.neuroimage.2019.116091
+---
