@@ -1,7 +1,7 @@
 ---
 title: "BIDS"
 date: 2024-10-28T15:17:52-04:00
-weight: 80
+weight: 20
 ---
 
 *A simple and intuitive way to organize and describe your neuroimaging and behavioral data.*
