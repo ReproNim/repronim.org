@@ -6,8 +6,177 @@ command = "hugo --gc --minify -b ${DEPLOY_PRIME_URL}"
 HUGO_VERSION = "0.132.2"
 DEPLOY_PRIME_URL = "https://dev.repronim.org"
 
+# GitHub Pages redirects for ReproNim repositories
 [[redirects]]
   from = "/module-intro/*"
   to = "https://www.repronim.org/module-intro/:splat"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/neurodocker/*"
+  to = "https://www.repronim.org/neurodocker/:splat"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/reproschema-library/*"
+  to = "https://www.repronim.org/reproschema-library/:splat"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/demo-protocol/*"
+  to = "https://www.repronim.org/demo-protocol/:splat"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/SOBPHack-042025/*"
+  to = "https://www.repronim.org/SOBPHack-042025/:splat"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/reproschema-ui/*"
+  to = "https://www.repronim.org/reproschema-ui/:splat"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/nimh-minimal/*"
+  to = "https://www.repronim.org/nimh-minimal/:splat"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/reproschema/*"
+  to = "https://www.repronim.org/reproschema/:splat"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/module-stats/*"
+  to = "https://www.repronim.org/module-stats/:splat"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/reproschema-demo-protocol/*"
+  to = "https://www.repronim.org/reproschema-demo-protocol/:splat"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/SOBPHack-052024/*"
+  to = "https://www.repronim.org/SOBPHack-052024/:splat"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/eab-demo/*"
+  to = "https://www.repronim.org/eab-demo/:splat"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/reproschema-demo/*"
+  to = "https://www.repronim.org/reproschema-demo/:splat"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/metasearch/*"
+  to = "https://www.repronim.org/metasearch/:splat"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/reprozip/*"
+  to = "https://www.repronim.org/reprozip/:splat"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/reproschema-builder/*"
+  to = "https://www.repronim.org/reproschema-builder/:splat"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/coco2019-training/*"
+  to = "https://www.repronim.org/coco2019-training/:splat"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/sfn2018-training/*"
+  to = "https://www.repronim.org/sfn2018-training/:splat"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/module-FAIR-data/*"
+  to = "https://www.repronim.org/module-FAIR-data/:splat"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/OHBMEducation-2022/*"
+  to = "https://www.repronim.org/OHBMEducation-2022/:splat"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/DGPA_workshop_2022/*"
+  to = "https://www.repronim.org/DGPA_workshop_2022/:splat"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/module-reproducible-basics/*"
+  to = "https://www.repronim.org/module-reproducible-basics/:splat"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/module-dataprocessing/*"
+  to = "https://www.repronim.org/module-dataprocessing/:splat"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/module-template/*"
+  to = "https://www.repronim.org/module-template/:splat"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/_deprecated_module-workflows/*"
+  to = "https://www.repronim.org/_deprecated_module-workflows/:splat"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/brainverse/*"
+  to = "https://www.repronim.org/brainverse/:splat"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/ohbm2018-training/*"
+  to = "https://www.repronim.org/ohbm2018-training/:splat"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/brainhack_ohbm18/*"
+  to = "https://www.repronim.org/brainhack_ohbm18/:splat"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/Training/*"
+  to = "https://www.repronim.org/Training/:splat"
   status = 200
   force = true
