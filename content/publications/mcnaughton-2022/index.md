@@ -1,0 +1,160 @@
+---
+title: 'Quantitative MRI Characterization of the Extremely Preterm Brain at Adolescence:
+  Atypical versus Neurotypical Developmental Pathways'
+authors:
+- Ryan McNaughton
+- Chris Pieper
+- Osamu Sakai
+- Julie V. Rollins
+- Xin Zhang
+- David N. Kennedy
+- Jean A. Frazier
+- Laurie Douglass
+- Timothy Heeren
+- Rebecca C. Fry
+- T. Michael O’Shea
+- Karl K. Kuban
+- Hernán Jara
+- Julie V. Rollins
+- Bhavesh Shah
+- Rachana Singh
+- Ruben Vaidya
+- Linda Van Marter
+- Camilla Martin
+- Janice Ware
+- Caitlin Rollins
+- Cynthia Cole
+- Ellen Perrin
+- Christina Sakai
+- Frank Bednarek
+- Jean Frazier
+- Richard Ehrenkranz
+- Jennifer Benjamin
+- Angela Montgomery
+- T. Michael O’Shea
+- Lisa Washburn
+- Semsa Gogcu
+- Carl Bose
+- Diane Warner
+- T. Michael O’Shea
+- Steve Engelke
+- Amanda Higginson
+- Jason Higginson
+- Kelly Bear
+- Mariel Poortenga
+- Steve Pastyrnak
+- Padu Karna
+- Nigel Paneth
+- Madeleine Lenski
+- Michael Schreiber
+- Scott Hunter
+- Michael Msall
+- Danny Batton
+- Judith Klarr
+- Young Ah Lee
+- Rawad Obeid
+- Karen Christianson
+- Deborah Klein
+- Katie Wagner
+- Maureen Pimental
+- Collen Hallisey
+- Taryn Coster
+- Maddie Dolins
+- Maggie Mittleman
+- Hannah Haile
+- Julia Rohde
+- Ellen Nylen
+- Emily Neger
+- Kathryn Mattern
+- Catherine Ma
+- Deanna Toner
+- Elizabeth Vitaro
+- Lauren Venuti
+- Beth Powers
+- Ann Foley
+- Taylor Sacco
+- Joanne Williams
+- Elaine Romano
+- Christine Henry
+- Debbie Hiatt
+- Nancy Peters
+- Patricia Brown
+- Emily Ansusinha
+- Jazmyne Smith
+- Nou Yang
+- Gennie Bose
+- Janice Wereszczak
+- Janice Bernhardt
+- Joan Adams
+- Donna Wilson
+- Nancy Darden-Saad
+- Bree Williams
+- Emily Jones
+- Dinah Sutton
+- Julie Rathbun
+- Stephanie Fagerman
+- William Boshoven
+- Jalen Johnson
+- Brandon James
+- Karen Miras
+- Carolyn Solomon
+- Deborah Weiland
+- Grace Yoon
+- Rugile Ramoskaite
+- Suzanne Wiggins
+- Krissy Washington
+- Ryan Martin
+- Barbara Prendergast
+- Emma Lynch
+- Beth Kring
+- Anne Smith
+- Susan McQuiston
+- Samantha Butler
+- Rachel Wilson
+- Kirsten McGhee
+- Patricia Lee
+- Aimee Asgarian
+- Anjali Sadhwani
+- Brandi Henson
+- Cecelia Keller
+- Jenifer Walkowiak
+- Susan Barron
+- Alice Miller
+- Brian Dessureau
+- Molly Wood
+- Jill Damon-Minow
+- Elaine Romano
+- Linda Mayes
+- Kathy Tsatsanis
+- Katarzyna Chawarska
+- Sophy Kim
+- Susan Dieterich
+- Karen Bearrs
+- Ellen Waldrep
+- Jackie Friedman
+- Gail Hounshell
+- Debbie Allred
+- Rebecca Helms
+- Lynn Whitley
+- Gary Stainback
+- Lisa Bostic
+- Amanda Jacobson
+- Joni McKeeman
+- Echo Meyer
+- Joan Price
+- Megan Lloyd
+- Susan Plesha-Troyke
+- Megan Scott
+- Katherine M. Solomon
+- Kara Brooklier
+- Kelly Vogt
+date: '2022-08-01'
+publishDate: '2024-12-19T23:16:36.636308Z'
+publication_types:
+- article-journal
+publication: '*Radiology*'
+doi: 10.1148/radiol.210385
+links:
+- name: URL
+  url: http://dx.doi.org/10.1148/radiol.210385
+---

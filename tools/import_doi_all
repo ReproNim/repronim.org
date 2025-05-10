@@ -1,0 +1,10 @@
+#!/bin/bash
+#
+# one time use script to import all already existing in plain text publications
+#
+
+#
+# TODO: ideally for all THOSE added entries we should add a tag "repronim" or alike so we could
+# add also related publications and then separate from those which are associated directly with ReproNim
+# 
+grep 'doi:' content/about/publications.md | sed -e 's,.*(https://doi.org/\(.*\)).*,\1,g' | xargs tools/import_doi
