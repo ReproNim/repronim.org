@@ -27,7 +27,7 @@ The program is open by competitive review to applicants at all career stages.
 
 - Sign up for our [mailing list](https://www.nitrc.org/mailman/listinfo/repronim-announcement).
  - Follow our [webinar series](https://www.youtube.com/channel/UCGX2sXmEgDuUGWHDSiT1NdQ/videos).
- - Read [The ReproNim Blog](https://reprodev.wordpress.com/category/article/).
+ - Read [The ReproNim Blog](https://repronim.wordpress.com/category/article/).
  - [Become a Fellow](/fellowship/).
 
 ## Contact us
