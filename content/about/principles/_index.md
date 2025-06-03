@@ -1,10 +1,8 @@
 ---
 title: "Reproducible Neuroimaging: Principles and Actions"
+weight: 1
 type: docs
-weight: 80
 ---
-
-## ReproNim's principles of reproducible neuroimaging
 
 <!--
 The style section will cause the sub-lists to be labeled with lowercase
@@ -14,6 +12,8 @@ Use care when modifying the principles since there are hard coded
 references to them (by NUMBER.LETTER) on other pages.
 -->
 
+## ReproNim's four core principles
+
 <style>
     ol ol li { list-style-type: lower-alpha; }
 </style>
@@ -21,7 +21,7 @@ references to them (by NUMBER.LETTER) on other pages.
 <!-- proposed abbreviated principles are in comments (like this one) -->
 
 <!-- 1: Study planning -->
-1. **Study planning**
+1. **[Study planning](/about/principles/planning/)**
     <!-- 1a: Implement good science -->
     1. Implement good science basics ([power analysis, statistical consults, etc.](https://www.repronim.org/module-stats/)).
     <!-- 1b: Use pre-existing data -->
