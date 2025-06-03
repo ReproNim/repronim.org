@@ -1,0 +1,210 @@
+---
+title: Variability in the analysis of a single neuroimaging dataset by many teams
+authors:
+- Rotem Botvinik-Nezer
+- Felix Holzmeister
+- Colin F. Camerer
+- Anna Dreber
+- Juergen Huber
+- Magnus Johannesson
+- Michael Kirchler
+- Roni Iwanir
+- Jeanette A. Mumford
+- R. Alison Adcock
+- Paolo Avesani
+- Blazej M. Baczkowski
+- Aahana Bajracharya
+- Leah Bakst
+- Sheryl Ball
+- Marco Barilari
+- Nadège Bault
+- Derek Beaton
+- Julia Beitner
+- Roland G. Benoit
+- Ruud M. W. J. Berkers
+- Jamil P. Bhanji
+- Bharat B. Biswal
+- Sebastian Bobadilla-Suarez
+- Tiago Bortolini
+- Katherine L. Bottenhorn
+- Alexander Bowring
+- Senne Braem
+- Hayley R. Brooks
+- Emily G. Brudner
+- Cristian B. Calderon
+- Julia A. Camilleri
+- Jaime J. Castrellon
+- Luca Cecchetti
+- Edna C. Cieslik
+- Zachary J. Cole
+- Olivier Collignon
+- Robert W. Cox
+- William A. Cunningham
+- Stefan Czoschke
+- Kamalaker Dadi
+- Charles P. Davis
+- Alberto De Luca
+- Mauricio R. Delgado
+- Lysia Demetriou
+- Jeffrey B. Dennison
+- Xin Di
+- Erin W. Dickie
+- Ekaterina Dobryakova
+- Claire L. Donnat
+- Juergen Dukart
+- Niall W. Duncan
+- Joke Durnez
+- Amr Eed
+- Simon B. Eickhoff
+- Andrew Erhart
+- Laura Fontanesi
+- G. Matthew Fricke
+- Shiguang Fu
+- Adriana Galván
+- Remi Gau
+- Sarah Genon
+- Tristan Glatard
+- Enrico Glerean
+- Jelle J. Goeman
+- Sergej A. E. Golowin
+- Carlos González-García
+- Krzysztof J. Gorgolewski
+- Cheryl L. Grady
+- Mikella A. Green
+- João F. Guassi Moreira
+- Olivia Guest
+- Shabnam Hakimi
+- J. Paul Hamilton
+- Roeland Hancock
+- Giacomo Handjaras
+- Bronson B. Harry
+- Colin Hawco
+- Peer Herholz
+- Gabrielle Herman
+- Stephan Heunis
+- Felix Hoffstaedter
+- Jeremy Hogeveen
+- Susan Holmes
+- Chuan-Peng Hu
+- Scott A. Huettel
+- Matthew E. Hughes
+- Vittorio Iacovella
+- Alexandru D. Iordan
+- Peder M. Isager
+- Ayse I. Isik
+- Andrew Jahn
+- Matthew R. Johnson
+- Tom Johnstone
+- Michael J. E. Joseph
+- Anthony C. Juliano
+- Joseph W. Kable
+- Michalis Kassinopoulos
+- Cemal Koba
+- Xiang-Zhen Kong
+- Timothy R. Koscik
+- Nuri Erkut Kucukboyaci
+- Brice A. Kuhl
+- Sebastian Kupek
+- Angela R. Laird
+- Claus Lamm
+- Robert Langner
+- Nina Lauharatanahirun
+- Hongmi Lee
+- Sangil Lee
+- Alexander Leemans
+- Andrea Leo
+- Elise Lesage
+- Flora Li
+- Monica Y. C. Li
+- Phui Cheng Lim
+- Evan N. Lintz
+- Schuyler W. Liphardt
+- Annabel B. Losecaat Vermeer
+- Bradley C. Love
+- Michael L. Mack
+- Norberto Malpica
+- Theo Marins
+- Camille Maumet
+- Kelsey McDonald
+- Joseph T. McGuire
+- Helena Melero
+- Adriana S. Méndez Leal
+- Benjamin Meyer
+- Kristin N. Meyer
+- Glad Mihai
+- Georgios D. Mitsis
+- Jorge Moll
+- Dylan M. Nielson
+- Gustav Nilsonne
+- Michael P. Notter
+- Emanuele Olivetti
+- Adrian I. Onicas
+- Paolo Papale
+- Kaustubh R. Patil
+- Jonathan E. Peelle
+- Alexandre Pérez
+- Doris Pischedda
+- Jean-Baptiste Poline
+- Yanina Prystauka
+- Shruti Ray
+- Patricia A. Reuter-Lorenz
+- Richard C. Reynolds
+- Emiliano Ricciardi
+- Jenny R. Rieck
+- Anais M. Rodriguez-Thompson
+- Anthony Romyn
+- Taylor Salo
+- Gregory R. Samanez-Larkin
+- Emilio Sanz-Morales
+- Margaret L. Schlichting
+- Douglas H. Schultz
+- Qiang Shen
+- Margaret A. Sheridan
+- Jennifer A. Silvers
+- Kenny Skagerlund
+- Alec Smith
+- David V. Smith
+- Peter Sokol-Hessner
+- Simon R. Steinkamp
+- Sarah M. Tashjian
+- Bertrand Thirion
+- John N. Thorp
+- Gustav Tinghög
+- Loreen Tisdall
+- Steven H. Tompson
+- Claudio Toro-Serey
+- Juan Jesus Torre Tresols
+- Leonardo Tozzi
+- Vuong Truong
+- Luca Turella
+- Anna E. van ‘t Veer
+- Tom Verguts
+- Jean M. Vettel
+- Sagana Vijayarajah
+- Khoi Vo
+- Matthew B. Wall
+- Wouter D. Weeda
+- Susanne Weis
+- David J. White
+- David Wisniewski
+- Alba Xifra-Porxas
+- Emily A. Yearling
+- Sangsuk Yoon
+- Rui Yuan
+- Kenneth S. L. Yuen
+- Lei Zhang
+- Xu Zhang
+- Joshua E. Zosky
+- Thomas E. Nichols
+- Russell A. Poldrack
+- Tom Schonberg
+date: '2020-05-01'
+publishDate: '2024-12-19T23:16:36.382775Z'
+publication_types:
+- article-journal
+publication: '*Nature*'
+doi: 10.1038/s41586-020-2314-9
+links:
+- name: URL
+  url: http://dx.doi.org/10.1038/s41586-020-2314-9
+---
