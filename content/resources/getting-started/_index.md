@@ -99,6 +99,7 @@ ReproNim can help Richard learn how standards such as BIDS and NIDM can help wit
 Tutorials that might be interesting to Richard include:
 
 * For data management, [Creating a Data Dictionary](/resources/tutorials/data-dictionary/).
+* For software management, [Creating Software Containers using Neurodocker](/resources/tutorials/neurodocker/)
 * For software management, [Advanced Containerization Using DataLad](/resources/tutorials/repronim-containers/).
 
 ### Computational neuroscientist/teacher
