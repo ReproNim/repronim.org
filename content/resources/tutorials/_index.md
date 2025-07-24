@@ -4,7 +4,7 @@ type: docs
 weight: 5 
 ---
 
-To help you get started with ReproNim, we have created a set of  tutorials to show how ReproNim's tools and services support best practices laid out in [ReproNim's principles of reproducible neuroimaging](/about/in-practice/#repronims-principles-of-reproducible-neuroimaging) and [ReproNim's four core actions](/about/in-practice/#repronims-four-core-actions).
+To help you get started with ReproNim, we have created a set of  tutorials to show how ReproNim's tools and services support best practices laid out in [ReproNim's principles of reproducible neuroimaging](/about/principles/#repronims-four-core-principles) and [ReproNim's four core actions](/about/principles/#repronims-four-core-actions).
 
 The tutorials are designed in a modular fashion, showing how individual steps to improve reproducibility can be fit together into an [overall reproducible workflow](/about/repronim-approach/).  
 
@@ -14,14 +14,14 @@ For an alternative approach to finding the right tutorial for you, see our [user
 
 ## Principle 1: Study planning
 
-_[Actions](/about/in-practice/#repronims-four-core-actions): Annotation and provenance_
+_[Actions](/about/principles/#repronims-four-core-actions): Annotation and provenance_
 
 - [Estimating Costs](/resources/tutorials/estimating-costs/): A guide to estimating costs and required resources for implementing reproducible practices.
 - [Creating a Data Management and Sharing Plan](/resources/tutorials/data-management-and-sharing/): Tips for creating an NIH Data Management and Sharing Plan.
 
 ## Principle 2: Data and metadata management
 
-_[Actions](/about/in-practice/#repronims-four-core-actions): Use of standards, 
+_[Actions](/about/principles/#repronims-four-core-actions): Use of standards, 
 Annotation and provenance, Version control_
 
 - [Converting DICOM to BIDS](/resources/tutorials/dicom-to-bids/): Use ReproNim tools to convert DICOM data to the BIDS standard (*basic*).
@@ -36,7 +36,7 @@ Forthcoming:
   
 ## Principle 3: Software management
 
-_[Actions](/about/in-practice/#repronims-four-core-actions): Annotation and provenance Version control, Use of containers_
+_[Actions](/about/principles/#repronims-four-core-actions): Annotation and provenance Version control, Use of containers_
 
 - [Basic Software Versioning Using Git](/resources/tutorials/git/): Use Git to manage workflow and pipeline versions (*basic*).
 - [Streamlining Neuroimaging Processing with Nipoppy](/resources/tutorials/nipoppy/): Curate and process a single study to generate standardized, analysis-ready data for distributed projects (*basic+*).

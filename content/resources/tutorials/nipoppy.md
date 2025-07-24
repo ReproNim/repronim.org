@@ -5,7 +5,7 @@ type: docs
 weight: 5 
 ---
 
-**[Reproducible neuroimaging principles](/about/in-practice/#repronims-principles-of-reproducible-neuroimaging)**: 3. Software management.
+**[Reproducible neuroimaging principles](/about/principles/#repronims-four-core-principles)**: 3. Software management.
 
 **Standards**: [BIDS](/resources/tools/bids/index.html).
 

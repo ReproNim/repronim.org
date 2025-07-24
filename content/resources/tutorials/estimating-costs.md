@@ -5,7 +5,7 @@ type: docs
 weight: 5
 ---
 
-**[Reproducible neuroimaging principles](/about/in-practice/#repronims-principles-of-reproducible-neuroimaging)**: 1. Study planning.
+**[Reproducible neuroimaging principles](/about/principles/#repronims-four-core-principles)**: 1. Study planning.
 
 ## How much will it cost?
 

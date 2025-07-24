@@ -4,7 +4,7 @@ date: 2024-10-28T15:14:39-04:00
 weight: 10
 ---
 
-This section describes core tools and standards produced by ReproNim. Each tool page has a description of the tool, the [principles and actions](/about/in-practice/) to which it applies and provides information on how to access the tool along with links to help materials, useful references and [tutorials](/resources/tutorials/). 
+This section describes core tools and standards produced by ReproNim. Each tool page has a description of the tool, the [principles and actions](/about/principles/) to which it applies and provides information on how to access the tool along with links to help materials, useful references and [tutorials](/resources/tutorials/). 
 
 For a general orientation to ReproNim resources, we suggest reviewing the [Getting started with ReproNim](/resources/getting-started/) and [Resources](/resources/) overviews.
 

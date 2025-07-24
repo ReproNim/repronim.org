@@ -10,6 +10,7 @@ ignore =
   ^https://doi\.org/10\.1002/hbm\.25351
   ^https://doi\.org/10\.1002/lio2\.354
   ^https://doi\.org/10\.1073/pnas\.1608282113
+  ^https://doi\.org/10\.1080/2833373X\.2024\.2376046
   ^https://doi\.org/10\.1093/cercor/bhx030
   ^https://doi\.org/10\.1093/database/bay130
   ^https://doi\.org/10\.1093/gerona/glw236
@@ -39,6 +40,7 @@ ignore =
   ^https://midb\.umn\.edu/staff/damien-fair
   # nsg uses legacy ssl handshake
   ^https://www\.nsgportal\.org/overview\.html
+  ^https://psychiatryonline\.org/doi/10.1176/appi\.ajp\.20230249
   ^https://pbs\.dartmouth\.edu/people/yaroslav-o-halchenko-0
   ^https://sharing\.nih\.gov/data-management-and-sharing-policy/planning-and-budgeting-for-data-management-and-sharing/budgeting-for-data-management-sharing#after
   ^https://sharing\.nih\.gov/data-management-and-sharing-policy/planning-and-budgeting-for-data-management-and-sharing/writing-a-data-management-and-sharing-plan#after

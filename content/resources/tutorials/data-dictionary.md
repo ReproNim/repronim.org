@@ -5,9 +5,9 @@ type: docs
 weight: 5 
 ---
 
-**[Reproducible neuroimaging principles](/about/in-practice/#repronims-principles-of-reproducible-neuroimaging)**: 2b. Use standard data formats.
+**[Reproducible neuroimaging principles](/about/principles/#repronims-four-core-principles)**: 2b. Use standard data formats.
 
-**[Actions](/about/in-practice/#repronims-four-core-actions)**: Standards, Annotation and provenance.
+**[Actions](/about/principles/#repronims-four-core-actions)**: Standards, Annotation and provenance.
 
 **Standards**: [BIDS](/resources/tools/bids/index.html), [NIDM](/resources/tools/nidm/index.html).
 

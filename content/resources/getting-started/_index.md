@@ -11,7 +11,7 @@ Our website provides a number of resources to get you started with ReproNim, dep
 
 <ins>Introductory materials</ins>
 * [An introduction to reproducible neuroimaging](/about/why/)
-* [Principles and actions of reproducible neuroimaging](/about/in-practice/)
+* [Principles and actions of reproducible neuroimaging](/about/principles/)
 * [The ReproNim approach to reproducible neuroimaging](/about/repronim-approach/)
 
 <ins>Choosing and using ReproNim tools</ins>
@@ -115,7 +115,7 @@ I'm interested in whether ReproNim provides up-to-date teaching materials that I
 
 Educational resources that might be interesting to John and his students:
 
-This site's [Why Reproducible Neuroimaging](/about/why/) and [Reproducible Neuroimaging in Practice](/about/in-practice/) provide a high-level overview of reproducible neuroimaging and the issues around it.
+This site's [Why Reproducible Neuroimaging](/about/why/) and [Reproducible Neuroimaging in Practice](/about/principles/) provide a high-level overview of reproducible neuroimaging and the issues around it.
 
 The [tutorials](/resources/tutorials/) provided here give opportunities for hands on experience in a number of areas.
 

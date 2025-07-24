@@ -4,9 +4,9 @@ type: docs
 weight: 5
 ---
 
-**[Reproducible neuroimaging principles](/about/in-practice/#repronims-principles-of-reproducible-neuroimaging)**: 2a: Use standard data formats, 2b: Use data version control, 2c: Annotate data, 3: Software management.
+**[Reproducible neuroimaging principles](/about/principles/#repronims-four-core-principles)**: 2a: Use standard data formats, 2b: Use data version control, 2c: Annotate data, 3: Software management.
 
-**[Actions](/about/in-practice/#repronims-four-core-actions)** Standards, Annotation and provenance, Version control, Containers.
+**[Actions](/about/principles/#repronims-four-core-actions)** Standards, Annotation and provenance, Version control, Containers.
 
 **Standards**: [BIDS](/resources/tools/bids/index.html).
 

@@ -4,9 +4,9 @@ type: docs
 weight: 5
 ---
 
-**[Reproducible neuroimaging principles](/about/in-practice/#repronims-principles-of-reproducible-neuroimaging)**: 3b: Use software version control.
+**[Reproducible neuroimaging principles](/about/principles/#repronims-four-core-principles)**: 3b: Use software version control.
 
-**[Actions](/about/in-practice/#repronims-four-core-actions)**: Version control.
+**[Actions](/about/principles/#repronims-four-core-actions)**: Version control.
 
 **Tools**: [Git](https://git-scm.com/).
 
