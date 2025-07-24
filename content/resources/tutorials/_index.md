@@ -44,6 +44,4 @@ _[Actions](/about/in-practice/#repronims-four-core-actions): Annotation and prov
 
 ## Principle 4: Publishing everything
 
-Forthcoming:
-
-- Publish all of your work as a "re-executable paper" that includes data, code, and text.
+- [Publish all of your work as a "re-executable paper"](/resources/tutorials/publish-everything/) that includes data, code, and text.
