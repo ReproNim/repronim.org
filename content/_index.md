@@ -13,25 +13,25 @@ A national biotechnology development center dedicated to developing tools and se
     {{< rn-button 
         link="/resources/getting-started/" 
         title="Getting Started" 
-        image="/images/sec-started2.webp" 
+        image="/images/sec-started.webp" 
         subtitle="Getting started with ReproNim" 
     >}}
     {{< rn-button 
         link="/resources/tools/" 
         title="Tools" 
-        image="/images/tools.webp" 
+        image="/images/sec-tools.webp" 
         subtitle="ReproNim tools" 
     >}}
     {{< rn-button 
         link="/fellowship/" 
         title="Fellowship" 
-        image="/images/sec-fellowship2.webp" 
+        image="/images/sec-fellowship.webp" 
         subtitle="ReproNim Fellowship Program" 
     >}}
     {{< rn-button 
         link="/about/why/" 
         title="Why" 
-        image="/images/sec-why2.webp" 
+        image="/images/sec-why.webp" 
         subtitle="Why reproducible neuroimaging" 
     >}}
 {{< /rn-buttons >}}
