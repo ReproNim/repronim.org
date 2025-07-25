@@ -1,6 +1,6 @@
 ---
 title: Creating a BIDS Data Dictionary and Adding Semantics
-linkTitle: Creating a Data Dictionary
+linkTitle: Creating a BIDS Data Dictionary
 type: docs
 weight: 5 
 ---
