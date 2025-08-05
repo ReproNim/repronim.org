@@ -1,0 +1,68 @@
+.science-highlights {
+    margin-bottom: 2rem;
+}
+
+.highlight-item {
+    background: #f8f9fa;
+    border: 1px solid #e9ecef;
+    border-radius: 8px;
+    padding: 1.5rem;
+    margin-bottom: 1.5rem;
+    transition: box-shadow 0.2s ease;
+}
+
+.highlight-item:hover {
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.highlight-item h3 {
+    color: #2c3e50;
+    margin-bottom: 0.5rem;
+    font-size: 1.2rem;
+}
+
+.highlight-item p {
+    margin-bottom: 0.75rem;
+    line-height: 1.6;
+}
+
+.highlight-item p:last-child {
+    margin-bottom: 0;
+}
+
+.highlight-item em {
+    color: #6c757d;
+    font-weight: 500;
+}
+
+.highlight-item strong {
+    color: #495057;
+}
+
+.highlight-item a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.highlight-item a:hover {
+    text-decoration: underline;
+}
+
+@media (prefers-color-scheme: dark) {
+    .highlight-item {
+        background: #2d3748;
+        border-color: #4a5568;
+    }
+    
+    .highlight-item h3 {
+        color: #e2e8f0;
+    }
+    
+    .highlight-item em {
+        color: #a0aec0;
+    }
+    
+    .highlight-item strong {
+        color: #cbd5e0;
+    }
+}

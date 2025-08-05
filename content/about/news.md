@@ -5,6 +5,21 @@ type: docs
 weight: 40
 ---
 
+<link rel="stylesheet" href="/css/science-highlights.css">
+
+## Science Highlights
+
+<div class="science-highlights">
+<div class="highlight-item">
+<h3>Variability in the analysis of a single neuroimaging dataset by many teams</h3>
+<p><em>Botvinik-Nezer et al. (2020), Nature</em></p>
+<p>A groundbreaking study revealed significant variations in brain activation patterns when 70 independent research teams analyzed the same neuroimaging dataset using their own methods. Despite using identical data, teams reached different conclusions about brain activity, highlighting critical challenges in neuroimaging reproducibility. This landmark research demonstrates why standardized analysis pipelines and transparent reporting are essential for reliable neuroscience findings. The study's findings have profound implications for how we interpret brain imaging research and underscore the importance of initiatives like ReproNim in promoting reproducible neuroimaging practices across the scientific community.</p>
+<p><strong>Publication:</strong> <a href="https://pubmed.ncbi.nlm.nih.gov/30792636/" target="_blank">PubMed: 30792636</a></p>
+</div>
+</div>
+
+## Latest News
+
 <div id="news">
 See <a href="https://repronim.wordpress.com/category/news/">our news site</a>.
 </div>
