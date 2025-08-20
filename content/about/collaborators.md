@@ -46,7 +46,7 @@ We are collaborating with numerous groups around the country and abroad to syner
 
 The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, and testbeds for the cutting-edge technology developed in P41 Technology and Research Development projects.
 
-Phase 2 Collaborative Projects
+### Current Collaborative Projects (Phase 2, 2021-2026)
 
 - CP1: [Segmenting Brain Structures for Neurological Disorders](https://reporter.nih.gov/search/kT7X-zyN302C6XNNo4g5xQ/project-details/10295766)
     - [Bruce Fischl](https://www.nmr.mgh.harvard.edu/user/5499) (PI)
@@ -79,47 +79,13 @@ Phase 2 Collaborative Projects
     - [Neda Jahanshad](https://profiles.sc-ctsi.org/neda.jahanshad) and [Paul Thompson](https://keck.usc.edu/faculty-search/paul-m-thompson/) (PIs)
     - Institution: University of Southern California (USC)
 
-Phase 1 Collaborative Projects
-
-- CP1: [Center for Functional Imaging Technologies](https://reporter.nih.gov/search/XWU3X01FwUqQqdeU2odhkw/project-details/9518908)
-    - [Bruce R. Rosen](https://www.nmr.mgh.harvard.edu/user/5052) and [Bruce Fischl](https://www.nmr.mgh.harvard.edu/user/5499) (PIs)
-    - Massachusetts General Hospital/Harvard Medical School
-- CP2: [Connectome Coordination Facility](https://reporter.nih.gov/search/mfwzdPaSukCpxGPFEw5KMA/project-details/9666967)
-    - [David Van Essen](https://neuroscience.wustl.edu/people/david-van-essen-phd/) and [Daniel Marcus](https://www.mir.wustl.edu/employees/daniel-marcus/) (PIs)
-    - Washington University St. Louis
-- CP3: [Structural and Functional Networks in Autism Spectrum Disorder and Fragile X Syndrome](https://braincanada.ca/funded_grants/structural-and-functional-networks-in-autism-spectrum-disorder-and-fragile-x-syndrome/)
-    - [Alan Evans](https://www.mcgill.ca/neuro/alan-charles-evans-oc-phd-frs-frsc-fcahs-fcas) (PI)
-    - McGill University
-- CP4: [Neuroimaging Analysis Center (NAC)](https://reporter.nih.gov/search/fZVaZ3oL9Ue4UfYBK5SyDA/project-details/9300935)
-    - [Ron Kikinis](https://spl.harvard.edu/people/ron-kikinis)
-    - Brigham and Women’s/Harvard Medical School
-- CP5: [Tracing the template: Investigating the representation of perceptual relevance](https://www.psychoinformatics.de/research.html)
-    - [Michael Hanke](https://www.trr379.de/contributors/michael-hanke/)
-    - Otto-von-Guericke University
-- CP6: [The XNAT Imaging Informatics Platform](https://reporter.nih.gov/search/nSJCqD2ArUG8bdAEYeeUBA/project-details/10002330)
-    - [Daniel Marcus](https://www.mir.wustl.edu/employees/daniel-marcus/) (PI)
-    - Washington University St. Louis
-- CP7:[DataGit: converging catalogues, warehouses, and deployment logistics into a federated 'data distribution'](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1429999)
-    - [Yaroslav Halchenko](https://faculty-directory.dartmouth.edu/yaroslav-o-halchenko) (PI)
-    - Dartmouth
-- CP8: [Longitudinal Discovery Of Brain Developmental Trajectories](https://reporter.nih.gov/search/KFS4BqIpG0yxkBgSO1nb7g/project-details/9303454)
-    - [Michael P. Milham](https://childmind.org/bio/michael-p-milham-md-phd/) (PI)
-    - Child Mind Institute
-- CP9: [Resource For Quantitative Functional MRI](https://reporter.nih.gov/search/KGSiA7EzWkarw7-gqQAF1A/project-details/9997686)
-    - [Michael I. Miller](https://profiles.hopkinsmedicine.org/provider/michael-i-miller/2777214) (PI)
-    - Johns Hopkins University
-- CP10: [ENIGMA Center for Worldwide Medicine, Imaging and Genomics](https://grantome.com/grant/NIH/U54-EB020403-01)
-    - [Paul Thompson](https://keck.usc.edu/faculty-search/paul-m-thompson/) (PI)
-    - University of Southern California
-      
-
 ## Service Projects
 
 In parallel, we are working with both basic and clinical researchers with established programs of applied neuroimaging research around the country, as well as large scale informatics initiatives in the US and the UK, to guide and refine the practical implementation of ReproNim tools in a variety of real-world research settings.
 
 The P41 Center provides their technology to Service Projects (SPs) that serve as users of the well-developed and stable technologies of the Center.
 
-Phase 2 Service Projects
+### Current Service Projects (Phase 2, 2021-2026)
 
 - SP1: [Biomarkers of Developmental Trajectories and Treatment in ASD](https://reporter.nih.gov/project-details/8537773)
     - [Susan Bookheimer](https://bri.ucla.edu/people/susan-bookheimer/) (PI)
@@ -152,35 +118,70 @@ Phase 2 Service Projects
     - [Tony Wilson](https://www.boystownhospital.org/research/faculty/tony-wilson) (PI)
     - Institution: University of Nebraska Medical Center
 
-Phase 1 Service Projects
-
-- SP1: [Biomarkers of Developmental Trajectories and Treatment in ASD](https://reporter.nih.gov/project-details/8537773)
-    - [Susan Y. Bookheimer](https://bri.ucla.edu/people/susan-bookheimer/) (PI)
-    - UCLA
-- SP2: [A Knowledge Environment for Neuroimaging in Child Psychiatry](https://reporter.nih.gov/search/PEo9sBWX9ESSLEW54H0CyQ/project-details/8678995)
-    - [Jean A. Frazier](https://profiles.umassmed.edu/display/129991) (PI)
-    - UMass Medical School
-- SP3: [Brain Bases of Language Deficits in SLI and ASD](https://reporter.nih.gov/search/w0I5M4HyqEWxRGTM1Of1vA/project-details/8889246)
-    - [John Gabrieli](https://mcgovern.mit.edu/profile/john-gabrieli/) (PI)
-    - MIT
-- SP4: [SchizConnect: Large-Scale Schizophrenia Neuroimaging Data Mediation & Federation](https://reporter.nih.gov/project-details/U01MH097435#description)
-    - [Lei Wang](https://www.linkedin.com/in/lei-wang-3071759) (PI)
-    - Northwestern University
-- SP5: [Mechanisms of Neuroplasticity in Functional Brain Networks](https://reporter.nih.gov/search/bYwK36nuEEWbsI-7RSC5VQ/project-details/8990057)
-    - [Mark D’Esposito](https://vcresearch.berkeley.edu/faculty/mark-desposito) (PI)
-    - UC Berkeley
-- SP6: [Large-Scale Automated Synthesis of Functional Neuroimaging Data](https://reporter.nih.gov/search/3lbkzt6Sp0Oyl4h9zp0Eeg/project-details/9881347)
-    - [Tal Yarkoni](https://talyarkoni.org/about/) (PI)
-    - University of Texas Austin
-- SP7: [Transforming Statistical Methodology for Neuroimaging Meta-Analysis](https://wellcome.org/research-funding/funding-portfolio/funded-grants/transforming-statistical-methodology-neuroimaging)
-    - [Thomas Nichols](https://www.bdi.ox.ac.uk/Team/t-e-nichols) (PI)
-    - University of Warwick
-- SP8: [Informed Data-Driven Fusion of Behavior, Brain Function, and Genes](https://reporter.nih.gov/search/MpcbTWBxIEei2MMIZQysrg/project-details/9134136)
-    - [Vince Calhoun](https://trendscenter.org/vince-calhoun/) (PI)
-    - MIND Research Network
-
-  
-### Map of Phase2 Collaborative and Service Projects
+### Map of Current Collaborative and Service Projects (Phase 2, 2021-2026)
 ![image info](/images/Phase2_CPSPmap.jpg)
 
 Blue markers are Collaborative Projects; Red markers are Service Projects.
+
+### Past Collaborative Projects (Phase 1, 2016-2021)
+
+- CP1: [Center for Functional Imaging Technologies](https://reporter.nih.gov/search/XWU3X01FwUqQqdeU2odhkw/project-details/9518908)
+    - [Bruce R. Rosen](https://www.nmr.mgh.harvard.edu/user/5052) and [Bruce Fischl](https://www.nmr.mgh.harvard.edu/user/5499) (PIs)
+    - Institution: Massachusetts General Hospital/Harvard Medical School
+- CP2: [Connectome Coordination Facility](https://reporter.nih.gov/search/mfwzdPaSukCpxGPFEw5KMA/project-details/9666967)
+    - [David Van Essen](https://neuroscience.wustl.edu/people/david-van-essen-phd/) and [Daniel Marcus](https://www.mir.wustl.edu/employees/daniel-marcus/) (PIs)
+    - Institution: Washington University St. Louis
+- CP3: [Structural and Functional Networks in Autism Spectrum Disorder and Fragile X Syndrome](https://braincanada.ca/funded_grants/structural-and-functional-networks-in-autism-spectrum-disorder-and-fragile-x-syndrome/)
+    - [Alan Evans](https://www.mcgill.ca/neuro/alan-charles-evans-oc-phd-frs-frsc-fcahs-fcas) (PI)
+    - Institution: McGill University
+- CP4: [Neuroimaging Analysis Center (NAC)](https://reporter.nih.gov/search/fZVaZ3oL9Ue4UfYBK5SyDA/project-details/9300935)
+    - [Ron Kikinis](https://spl.harvard.edu/people/ron-kikinis)
+    - Institution: Brigham and Women’s/Harvard Medical School
+- CP5: [Tracing the template: Investigating the representation of perceptual relevance](https://www.psychoinformatics.de/research.html)
+    - [Michael Hanke](https://www.trr379.de/contributors/michael-hanke/)
+    - Institution: Otto-von-Guericke University
+- CP6: [The XNAT Imaging Informatics Platform](https://reporter.nih.gov/search/nSJCqD2ArUG8bdAEYeeUBA/project-details/10002330)
+    - [Daniel Marcus](https://www.mir.wustl.edu/employees/daniel-marcus/) (PI)
+    - Institution: Washington University St. Louis
+- CP7:[DataGit: converging catalogues, warehouses, and deployment logistics into a federated 'data distribution'](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1429999)
+    - [Yaroslav Halchenko](https://faculty-directory.dartmouth.edu/yaroslav-o-halchenko) (PI)
+    - Institution: Dartmouth
+- CP8: [Longitudinal Discovery Of Brain Developmental Trajectories](https://reporter.nih.gov/search/KFS4BqIpG0yxkBgSO1nb7g/project-details/9303454)
+    - [Michael P. Milham](https://childmind.org/bio/michael-p-milham-md-phd/) (PI)
+    - Institution: Child Mind Institute
+- CP9: [Resource For Quantitative Functional MRI](https://reporter.nih.gov/search/KGSiA7EzWkarw7-gqQAF1A/project-details/9997686)
+    - [Michael I. Miller](https://profiles.hopkinsmedicine.org/provider/michael-i-miller/2777214) (PI)
+    - Institution: Johns Hopkins University
+- CP10: [ENIGMA Center for Worldwide Medicine, Imaging and Genomics](https://grantome.com/grant/NIH/U54-EB020403-01)
+    - [Paul Thompson](https://keck.usc.edu/faculty-search/paul-m-thompson/) (PI)
+    - Institution: University of Southern California
+      
+### Past Service Projects (Phase 1, 2016-2021)
+
+- SP1: [Biomarkers of Developmental Trajectories and Treatment in ASD](https://reporter.nih.gov/project-details/8537773)
+    - [Susan Y. Bookheimer](https://bri.ucla.edu/people/susan-bookheimer/) (PI)
+    - Institution: UCLA
+- SP2: [A Knowledge Environment for Neuroimaging in Child Psychiatry](https://reporter.nih.gov/search/PEo9sBWX9ESSLEW54H0CyQ/project-details/8678995)
+    - [Jean A. Frazier](https://profiles.umassmed.edu/display/129991) (PI)
+    - Institution: UMass Medical School
+- SP3: [Brain Bases of Language Deficits in SLI and ASD](https://reporter.nih.gov/search/w0I5M4HyqEWxRGTM1Of1vA/project-details/8889246)
+    - [John Gabrieli](https://mcgovern.mit.edu/profile/john-gabrieli/) (PI)
+    - Institution: MIT
+- SP4: [SchizConnect: Large-Scale Schizophrenia Neuroimaging Data Mediation & Federation](https://reporter.nih.gov/project-details/U01MH097435#description)
+    - [Lei Wang](https://www.linkedin.com/in/lei-wang-3071759) (PI)
+    - Institution: Northwestern University
+- SP5: [Mechanisms of Neuroplasticity in Functional Brain Networks](https://reporter.nih.gov/search/bYwK36nuEEWbsI-7RSC5VQ/project-details/8990057)
+    - [Mark D’Esposito](https://vcresearch.berkeley.edu/faculty/mark-desposito) (PI)
+    - Institution: UC Berkeley
+- SP6: [Large-Scale Automated Synthesis of Functional Neuroimaging Data](https://reporter.nih.gov/search/3lbkzt6Sp0Oyl4h9zp0Eeg/project-details/9881347)
+    - [Tal Yarkoni](https://talyarkoni.org/about/) (PI)
+    - Institution: University of Texas Austin
+- SP7: [Transforming Statistical Methodology for Neuroimaging Meta-Analysis](https://wellcome.org/research-funding/funding-portfolio/funded-grants/transforming-statistical-methodology-neuroimaging)
+    - [Thomas Nichols](https://www.bdi.ox.ac.uk/Team/t-e-nichols) (PI)
+    - Institution: University of Warwick
+- SP8: [Informed Data-Driven Fusion of Behavior, Brain Function, and Genes](https://reporter.nih.gov/search/MpcbTWBxIEei2MMIZQysrg/project-details/9134136)
+    - [Vince Calhoun](https://trendscenter.org/vince-calhoun/) (PI)
+    - Institution: MIND Research Network
+
+  
+
