@@ -41,10 +41,10 @@ Before diving into the conversion process, it's important to familiarize yoursel
 * [Create an empty python environment with Python 3.9 using Conda](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)  
 * From a terminal window run with the new Conda environment active, run: $ pip install pynidm
 
-### Step 2: Run the bidsmri2nidm.py PyNIM tool
+### Step 2: Run the bidsmri2nidm PyNIM tool
 
 ```
-bidsmri2nidm.py \-d \~/…/bids\_dataset \-bidsignore \-o \~/…/bids\_dataset/nidm.ttl
+bidsmri2nidm -d ~/…/bids_dataset -bidsignore -o ~/…/bids_dataset/nidm.ttl
 ```
 
 ### Step 3: Annotate a variable in participants.tsv called "gender"
