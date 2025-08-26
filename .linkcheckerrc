@@ -8,31 +8,8 @@ ignore =
   ^https://abcdstudy\.org/about/
   ^https://childmind\.org/bio/michael-p-milham-md-phd/
   ^https://coinstac\.org/
-  ^https://doi\.org/10\.1002/hbm\.25351
-  ^https://doi\.org/10\.1002/lio2\.354
-  ^https://doi\.org/10\.1073/pnas\.1608282113
-  ^https://doi\.org/10\.1080/2833373X\.2024\.2376046
-  ^https://doi\.org/10\.1093/cercor/bhx030
-  ^https://doi\.org/10\.1093/database/bay130
-  ^https://doi\.org/10\.1093/gerona/glw236
-  ^https://doi\.org/10\.1093/gigascience/giaa155
-  ^https://doi\.org/10\.1093/gigascience/giab055
-  ^https://doi\.org/10\.1093/gigascience/giac013
-  ^https://doi\.org/10\.1093/gigascience/giae009
-  ^https://doi\.org/10\.1093/gigascience/giy077
-  ^https://doi\.org/10\.1101/2020\.11\.23\.20235945
-  ^https://doi\.org/10\.1101/2023\.08\.01\.551505
-  ^https://doi\.org/10\.1101/2023\.08\.16\.552472
-  ^https://doi\.org/10\.1101/2024\.04\.29\.24306516
-  ^https://doi\.org/10\.1109/tmi\.2018\.2831261
-  ^https://doi\.org/10\.1146/annurev-neuro-100119-110036
-  ^https://doi\.org/10\.1148/radiol\.210385
-  ^https://doi\.org/10\.1159/000530358
-  ^https://doi\.org/10\.1162/imag_a_00074
-  ^https://doi\.org/10\.1162/imag_a_00103
-  ^https://doi\.org/10\.12688/f1000research\.25306\.2
-  ^https://doi\.org/10\.12688/mniopenres\.12772\.2
-  ^https://doi\.org/10\.3233/jpd-191775
+  # Ignore all dois, the redirects frequently break as hosts update robots handling
+  ^https://doi\.org/*
   ^https://elixiruknode\.org/
   ^https://git-scm\.com/downloads
   ^https://git-scm\.com/
