@@ -2,7 +2,7 @@
 linkTitle: "Data management"
 title: "ReproNim Principle 2: Data and Metadata Management"
 type: docs
-weight: 80
+weight: 90
 ---
 Data and metadata management is essential for scientific reproducibility as they provide the foundation for understanding, validating, and building upon research findings. Through comprehensive documentation of experimental conditions, data collection methods, and analysis workflows, researchers can capture the critical context needed to understand and replicate their work ([Borghi and Van Gulick, 2018](https://riojournal.com/articles.php?id=26439)). Management includes preserving both raw and processed data in accessible formats, maintaining clear version control, and implementing standardized metadata schemas. When data is properly managed with detailed documentation, researchers can access, understand, and work with the exact same dataset, well beyond the initial time frame in which the data were produced
 
@@ -34,8 +34,8 @@ Data and metadata management is essential for scientific reproducibility as they
 
   * ***Some things you can try:***
     * Git-based approaches: Adapts Git (with Git-LFS for large files) to version data alongside code. Benefits from familiar branching and merging workflows but can struggle with very large datasets.
-    * DVC (Data Version Control): Purpose-built for data science, storing large files in cloud storage while tracking metadata in Git. Integrates with ML pipelines and tracks experiments while efficiently handling large datasets.
-    * Pachyderm: Container-based system that versions both data and processing code together, ensuring reproducibility and providing automatic lineage tracking in data pipelines.
+    * [DVC (Data Version Control)](https://dvc.org/): Purpose-built for data science, storing large files in cloud storage while tracking metadata in Git. Integrates with ML pipelines and tracks experiments while efficiently handling large datasets.
+    * [Pachyderm](https://docs.pachyderm.com/products/mldm/latest/learn/basic-concepts/): Container-based system that versions both data and processing code together, ensuring reproducibility and providing automatic lineage tracking in data pipelines.
     * [**DataLad**](/resources/tools/datalad/): Advanced software platform for managing and sharing data.  DataLad automatically tracks all versions of data
 3. **Annotate data using standard, reproducible procedures**
    Data annotation is the systematic process of adding labels, tags, or descriptive information to raw data to make it more meaningful and usable for analysis. Using standardized annotation practices, i.e., using common vocabularies and well documented annotation guidelines,  creates a consistent framework for documenting research data, making it easier for other lab members and colleagues to annotate, understand and interpret the information correctly. When annotations follow established procedures, they provide clear, unambiguous descriptions of data elements, experimental conditions, and methodological choices. This standardization reduces the risk of misinterpretation and makes it possible to compare data across different studies or time periods reliably.  Standardized annotations are a cornerstone of FAIR, as they make the data more findable, interoperable and reusable. When annotations follow well-defined standards used across the broader community, they create a reliable foundation for data sharing, reuse, and long-term preservation, ultimately contributing to the broader goals of open science and research reproducibility.
