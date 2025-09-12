@@ -21,26 +21,26 @@ menu:
     - name: Home
       pageRef: "/"
       weight: 1
-    - name: Help
-      pageRef: /help/
-      weight: 10
     - name: About
       pageRef: /about/
-      weight: 2
+      weight: 5
     - name: Resources
       pageRef: /resources/
-      weight: 3
+      weight: 10
     - name: Fellowship
       pageRef: /fellowship/
-      weight: 5
+      weight: 15
     - name: Participate
       pageRef: /participate/
-      weight: 7
-    # - name: Contact ↗
-    #   url: "https://github.com/imfing"
-    #   weight: 15
-    - name: Search
       weight: 20
+    - name: News
+      pageRef: /news/
+      weight: 25
+    - name: Help
+      pageRef: /help/
+      weight: 100
+    - name: Search
+      weight: 200
       params:
         type: search
 
