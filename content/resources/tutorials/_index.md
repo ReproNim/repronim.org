@@ -26,6 +26,8 @@ Annotation and provenance, Version control_
 
 - [Converting DICOM to BIDS](/resources/tutorials/dicom-to-bids/): Use ReproNim tools to convert DICOM data to the BIDS standard (*basic*).
 - [Creating a Data Dictionary](/resources/tutorials/data-dictionary/): Create a data dictionary for a BIDS dataset (*basic*).
+- [Annotating FreeSurfer Data](/resources/tutorials/freesurfer/): Annotate FreeSurfer data (*basic*).
+- [Annotating FSL Data](/resources/tutorials/fsl/): Annotate FSL data (*basic*).
 - [Planning a Distributed Project Using ReproSchema](/resources/tutorials/reproschema/): Set up a data collection and annotation framework for a multi-site study.
 - [Searching Across Studies Using ReproPond and ReproLake](/resources/tutorials/pond-lake/): Search and share metadata through ReproPond and ReproLake (*advanced*).
 
