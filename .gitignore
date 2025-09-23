@@ -8,10 +8,6 @@ resources/
 .vscode/
 .*.swp
 
-# Local AI tooling and docs
-.gemini/
-CLAUDE.md
-
 # Local docs (keep untracked)
 AGENTS.md
 
