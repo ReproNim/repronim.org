@@ -39,7 +39,7 @@ By the end of this tutorial, you will have created a functioning ReproSchema pro
 
 **Knowledge Assumed:**
 
-* **Basic GitHub Usage**: You should be comfortable navigating GitHub repositories, cloning projects, and understanding version control basics.
+* **Basic GitHub Usage**: You should be comfortable navigating GitHub repositories, cloning projects, and understanding version control basics, see [here](content/resources/tutorials/git.md).
   If you're new to GitHub, review the [GitHub Getting Started Guide](https://docs.github.com/en/get-started)
 * **Command Line Fundamentals**: Ability to run bash commands, navigate directories, and execute Python scripts.
   Refresh your bash knowledge with this [Bash Command Cheat Sheet](https://github.com/RehanSaeed/Bash-Cheat-Sheet)
@@ -49,7 +49,7 @@ By the end of this tutorial, you will have created a functioning ReproSchema pro
 **Required Software:**
 
 * **Git**: For version control and accessing repositories
-* **Python 3.7+**: For running ReproSchema tools
+* **Python 3.9+**: For running ReproSchema tools and pipx
 * **Node.js and npm**: For testing the user interface locally
 * **Text Editor**: Any code editor (VS Code, Sublime Text, etc.)
 
@@ -65,7 +65,6 @@ ReproSchema uses a hierarchical structure to organize assessments, making comple
 
 1. **Foundational Schema** ([reproschema](https://github.com/ReproNim/reproschema))
    - Defines the structure: Protocol → Activity → Item
-   - Each element links to metadata (version, timing, conditions)
    - Uses JSON-LD format for semantic clarity
 
 2. **Assessment Library** ([reproschema-library](https://github.com/ReproNim/reproschema-library))
@@ -88,7 +87,7 @@ ReproSchema uses a hierarchical structure to organize assessments, making comple
    - Proper folder structure and examples
    - Built-in best practices
 
-![A diagram of the connections between the parts of ReproSchema.](/images/reproschema_2.png)
+![A diagram of the connections between the parts of ReproSchema.](static/images/reproschema_2.png)
 
 ### Step 2: Explore a Demo Protocol
 
@@ -110,6 +109,7 @@ Before creating your own protocol, explore what's possible:
    cd demo-protocol
    # Explore the structure
    ```
+   The `DemoProtocol` folder contains the schema at the protocol level. The `activities` folder holds the schema for each activity. The `ui-changes/src` folder enables rendering the UI components.
 
 ### Step 3: Plan Your Data Collection Framework
 
@@ -121,8 +121,8 @@ Start with a spreadsheet outlining your assessments:
 |--------------|---------------|------|----------|------------|-----------------|
 | participant_id | Participant ID | text | Yes | Alphanumeric, 6 chars | None |
 | age | What is your age? | number | Yes | 18-100 | None |
-| has_condition | Do you have diabetes? | radio | Yes | None | None |
-| medication | What medication? | text | No | None | Show if has_condition = Yes |
+| has_diabetes | Do you have diabetes? | radio | Yes | None | None |
+| medication | What medication? | text | No | None | Show if has_diabetes = Yes |
 
 **Check Available Assessments:**
 
@@ -139,11 +139,12 @@ Common assessments include:
 **Option A: Use the Cookiecutter Template (Recommended)**
 
 ```bash
-# Install cookiecutter
-pip install cookiecutter
+# Install required tools
+pip install pipx
+pipx install cruft
 
 # Generate your project
-cookiecutter https://github.com/ReproNim/reproschema-protocol-cookiecutter
+cruft create https://github.com/ReproNim/reproschema-protocol-cookiecutter
 ```
 
 You'll be prompted for:
@@ -199,7 +200,7 @@ reproschema redcap2reproschema \
      "schemaVersion": "1.0.0",
      "version": "1.0.0",
      "ui": {
-       "order": [
+       "order": [ # the order of items will be the order they appear on the screen
          "items/age",
          "items/has_diabetes",
          "items/medication"
@@ -252,7 +253,31 @@ reproschema redcap2reproschema \
    }
    ```
 
-4. **Update your protocol** to include the new activity in `my_study_schema`.
+4. **Update your protocol** to include the new activity in `my_study_schema`:
+   ```json
+   {
+     "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema",
+     "@type": "reproschema:Protocol",
+     "@id": "my_study_schema",
+     "prefLabel": "My Research Study",
+     "description": "A comprehensive health screening study",
+     "schemaVersion": "1.0.0",
+     "version": "1.0.0",
+     "ui": {
+       "order": [
+         "activities/screening/screening_schema"
+       ],
+       "shuffle": false,
+       "addProperties": [
+         {
+           "isAbout": "activities/screening/screening_schema",
+           "variableName": "screening",
+           "prefLabel": "Health Screening"
+         }
+       ]
+     }
+   }
+   ```
 
 ### Step 6: Test Your Protocol Locally
 

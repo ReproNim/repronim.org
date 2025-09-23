@@ -63,7 +63,7 @@ In the .env file replace the placeholder value for NB_API_QUERY_URL (near line 6
 NB_API_QUERY_URL=https://XX.XX.XX.XX
 ```
 
-If you are deploying Neurobagel for the local computer use: NB_API_QUERY_URL=https://localhost:8080 where :8080 is the default port for the federation API. For non-local implementations enter the IP address. Note: specify the protcol (i.e. https://). Please refer to the [detailed documentation for a complete overview of configuration options](https://neurobagel.org/user_guide/getting_started/).
+If you are deploying Neurobagel for the local computer use: NB_API_QUERY_URL=https://localhost:8080 where :8080 is the default port for the federation API. For non-local implementations enter the IP address. Note: specify the protocol (i.e. https://). Please refer to the [detailed documentation for a complete overview of configuration options](https://neurobagel.org/user_guide/getting_started/).
 
 ```
 NB_API_QUERY_URL=https://localhost:8080
