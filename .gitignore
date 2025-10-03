@@ -7,3 +7,19 @@ resources/
 # Editor
 .vscode/
 .*.swp
+
+# Local docs (keep untracked)
+AGENTS.md
+
+# OS / Editor artifacts
+.DS_Store
+Thumbs.db
+.idea/
+.fleet/
+.history/
+*.log
+*.tmp
+*.bak
+*~
+.env
+.env.*.local
