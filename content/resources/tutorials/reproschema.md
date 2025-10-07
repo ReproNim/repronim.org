@@ -39,7 +39,7 @@ By the end of this tutorial, you will have created a functioning ReproSchema pro
 
 **Knowledge Assumed:**
 
-* **Basic GitHub Usage**: You should be comfortable navigating GitHub repositories, cloning projects, and understanding version control basics, see [here](content/resources/tutorials/git.md).
+* **Basic GitHub Usage**: You should be comfortable navigating GitHub repositories, cloning projects, and understanding version control basics, see [here](/resources/tutorials/git.md).
   If you're new to GitHub, review the [GitHub Getting Started Guide](https://docs.github.com/en/get-started)
 * **Command Line Fundamentals**: Ability to run bash commands, navigate directories, and execute Python scripts.
   Refresh your bash knowledge with this [Bash Command Cheat Sheet](https://github.com/RehanSaeed/Bash-Cheat-Sheet)
@@ -87,7 +87,7 @@ ReproSchema uses a hierarchical structure to organize assessments, making comple
    - Proper folder structure and examples
    - Built-in best practices
 
-![A diagram of the connections between the parts of ReproSchema.](static/images/reproschema_2.png)
+![A diagram of the connections between the parts of ReproSchema.](/images/reproschema_2.png)
 
 ### Step 2: Explore a Demo Protocol
 
