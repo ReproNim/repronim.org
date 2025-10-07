@@ -97,7 +97,7 @@ The P41 Center provides their technology to Service Projects (SPs) that serve as
     - [Amitava Majumdar](https://www.sdsc.edu/~majumdar/) and [Kenneth Yoshimoto](https://www.sdsc.edu/research/researcher_spotlight/yoshimoto_kenneth.html) and [Subhashini Sivagnanam](https://users.sdsc.edu/~sivagnan/) (PIs)
     - Institution: University of California at San Diego
 - SP4: [CRCNS: NeuroBridge: Connecting Big Data for Reproducible Clinical Neuroscience](https://neurobridges.org/)
-    - [Lei Wang](https://medicine.osu.edu/find-faculty/clinical/psychiatry-and-behavioral-health/lei-wang-phd) (PI)
+    - [Lei Wang](https://www.linkedin.com/in/lei-wang-3071759) (PI)
     - Institution: Ohio State University
 - SP5: [EAGER: Community Building and Workflows for Data Sharing with Publicly Accessible and Consumable Metadata](https://www.linknovate.com/grant/eager-community-building-and-workflows-for-data-sharing-with-publicly-accessible-and-consumable-metadata-317869/)
     - [Brian Nosek](https://med.virginia.edu/faculty/faculty-listing/ban2b/) (PI)
