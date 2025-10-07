@@ -31,3 +31,15 @@ weight: 40
     numentries="10"
     apibase="https://public-api.wordpress.com/wp/v2/sites/repronim.wordpress.com"
 >}}
+
+## Community Events
+
+{{< wordpress-posts 
+    category="42098758"
+    id="community-events-posts" 
+    linkurl="https://repronim.wordpress.com/category/communityevent/" 
+    linktext="community events" 
+    showexcerpt="true" 
+    numentries="10"
+    apibase="https://public-api.wordpress.com/wp/v2/sites/repronim.wordpress.com"
+>}}
