@@ -80,11 +80,19 @@ In the local_nb_nodes.json file specify a name for the local node and address:
 ```
 [
   {
-    "NodeName": "My Institute",
-    "ApiURL": "https://neurobagel.myinstitute.edu"
+    "NodeName": "My ReproPond",
+    "ApiURL": "https://local_ip_address"
   }
 ]
 ```
+e.g.
+```
+[
+  {
+    "NodeName": "ReproPond",
+    "ApiURL": "https://XX.XX.XX.XX"
+  }
+]
 
 In the terminal window still in the recipes directory launch the docker by entering:
 
