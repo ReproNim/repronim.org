@@ -39,7 +39,7 @@ By the end of this tutorial, you will have created a functioning ReproSchema pro
 
 **Knowledge Assumed:**
 
-* **Basic GitHub Usage**: You should be comfortable navigating GitHub repositories, cloning projects, and understanding version control basics, see [here](/resources/tutorials/git.md).
+* **Basic GitHub Usage**: You should be comfortable navigating GitHub repositories, cloning projects, and understanding version control basics, see [here](/resources/tutorials/git/).
   If you're new to GitHub, review the [GitHub Getting Started Guide](https://docs.github.com/en/get-started)
 * **Command Line Fundamentals**: Ability to run bash commands, navigate directories, and execute Python scripts.
   Refresh your bash knowledge with this [Bash Command Cheat Sheet](https://github.com/RehanSaeed/Bash-Cheat-Sheet)
