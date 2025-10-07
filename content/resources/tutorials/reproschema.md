@@ -9,9 +9,9 @@ weight: 5
 
 **[Actions](/about/principles/#repronims-four-core-actions)**: Standards, Annotation and provenance.
 
-**Standards**: [BIDS](/resources/tools/bids/index.html).
+**Standards**: [BIDS](/resources/tools/bids/).
 
-**Tools**: [ReproSchema](/resources/tools/reproschema/index.html).
+**Tools**: [ReproSchema](/resources/tools/reproschema/).
 
 ## Challenge
 
