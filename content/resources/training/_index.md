@@ -17,7 +17,7 @@ We also partner with groups to create tailored training programs that addresses 
 Our associated training programs include [ReproRehab](https://www.reprorehab.usc.edu/), an NIH-funded training fellowship program (USC) designed to support reproducible research in the physical rehabilitation community under the founding leadership of ReproNim/INCF Fellowship alumna Sook-Lei Liew (USC).
 We have also partnered with the Adolescent Brain Cognitive Development (ABCD) Study Research Consortium in collaboration with Angela Laird (FIU) to create [ABCD-ReproNim](https://www.abcd-repronim.org/), a 12-week online course on reproducible data analyses with ABCD data (big data).
  
-In addition, we and our Fellows have generated a great deal of training materials.  An effort is underway to catalog these in our [ReproInventory](https://repronim.org/ReproInventory/).
+In addition, we and our Fellows have generated a great deal of training materials. An effort is underway to catalog these in our [ReproInventory](https://repronim.org/ReproInventory/).
  
 Our ReproNim "First Fridays" monthly webinar series features important efforts in reproducibility from both ReproNim and other groups. See our [ReproNim YouTube channel](https://www.youtube.com/channel/UCGX2sXmEgDuUGWHDSiT1NdQ/videos) to view our entire collection of webinars to date.
  
