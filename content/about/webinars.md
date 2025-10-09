@@ -196,7 +196,7 @@ Guest speaker and ReproNim Affiliate [Peer Herholz](https://peerherholz.github.i
 [Video Presentation](https://youtu.be/HwQzvQn2Who) is now available. Slides will be made available as soon as possible.
 
 ### Friday, February 4, 2022 at 2pm EST
-[Sebastian Urchs](https://www.surchs.com/) joins us from McGill to discuss linked data principles and how they can be used to integrate data via metadata, with an illuminating presentation on Annotation 101: Linked Data 101 and the Semantic Web.
+[Sebastian Urchs](https://github.com/surchs) joins us from McGill to discuss linked data principles and how they can be used to integrate data via metadata, with an illuminating presentation on Annotation 101: Linked Data 101 and the Semantic Web.
 
 [Video Presentation](https://youtu.be/vP_9Fo29o_E) and
 [Slides](https://docs.google.com/presentation/d/1AWNZsRTf9aZr3OBFY33Z38L8UIe1HzXWPTE8addXhUM/edit#slide=id.p) are now available.
