@@ -20,7 +20,7 @@ weight: 10
     - Associate Director, Center for Research in Biological Systems, Neurosciences, UC San Diego Health Sciences, San Diego, CA
         - Founding Co-Director, [FAIR Data Informatics Lab](https://www.fdilab.org/team) at UCSD
 - [Satra Ghosh](https://mcgovern.mit.edu/profile/satrajit-ghosh/) Project 2 Lead - Improving Research Efficiency through Better Descriptors (DESCRIBE)
-    - Principal Research Scientist, [McGovern Institute for Brain Research](https://satra.cogitatum.org/), M.I.T., Cambridge, MA
+    - Senior Research Scientist, McGovern Institute for Brain Research, M.I.T., Cambridge, MA
         - Director, [Senseable Intelligence Group](https://sensein.group/), M.I.T./Harvard Medical School
     - Assistant Professor of Otolaryngology, Harvard Medical School, Boston, MA
         - Faculty, Speech and Hearing Biosciences and Technology, Harvard Division of Medical Sciences
