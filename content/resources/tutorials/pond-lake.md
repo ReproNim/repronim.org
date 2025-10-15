@@ -93,6 +93,7 @@ e.g.
     "ApiURL": "https://XX.XX.XX.XX"
   }
 ]
+```
 
 In the terminal window still in the recipes directory launch the docker by entering:
 
