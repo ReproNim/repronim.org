@@ -12,7 +12,7 @@ Tutorials cover basic and more advanced approaches as noted below. Each tutorial
 
 For an alternative approach to finding the right tutorial for you, see our [user types and use cases](/resources/getting-started/#user-types-and-use-cases).
 
-For additional tutorials on the use of specific tools, see our [Tools page](https://repronim.org/resources/tools/).
+For additional tutorials on specific tools, see the individual tool pages listed on our [Tools page](/resources/tools/).
 
 ## Principle 1: Study planning
 
