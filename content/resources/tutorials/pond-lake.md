@@ -44,10 +44,11 @@ Here we are going to mount your NIDM file (nidm.ttl) containing the study data u
 
 First we install the Neurobagel Docker.  Please refer to https://neurobagel.org/user_guide/getting_started/ for full details.
 
-Start by cloning the Neurobagel recipes:
+Start by cloning the Neurobagel recipes and change to the new directory:
 
 ```
 git clone https://github.com/neurobagel/recipes.git
+cd recipes
 ```
 
 Make copies of the template configuration files to edit for your deployment (do not edit the templates themselves).
@@ -57,7 +58,7 @@ cp template.env .env
 cp local_nb_nodes.template.json local_nb_nodes.json
 ```
 
-In the .env file replace the placeholder value for NB_API_QUERY_URL (near line 65) with the address of the machine you are going to deploy Neurobagel on.
+In the .env file replace the placeholder value for NB_API_QUERY_URL (near line 65) with the IP address of the machine you are going to deploy Neurobagel on.
 
 ```
 NB_API_QUERY_URL=https://XX.XX.XX.XX
@@ -75,7 +76,7 @@ In the .env file edit the LOCAL_GRAPH_DATA section (near line 28) to list the fo
 LOCAL_GRAPH_DATA=/home/user/Desktop/project_data
 ```
 
-In the local_nb_nodes.json file specify a name for the local node and address:
+In the local_nb_nodes.json file specify a name for the local node and address (Note only IP addresses can be used here):
 
 ```
 [
