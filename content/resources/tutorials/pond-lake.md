@@ -76,7 +76,7 @@ In the .env file edit the LOCAL_GRAPH_DATA section (near line 28) to list the fo
 LOCAL_GRAPH_DATA=/home/user/Desktop/project_data
 ```
 
-In the local_nb_nodes.json file specify a name for the local node and address (Note only IP addresses can be used here):
+In the local_nb_nodes.json file specify a name for the local node and address (**Note**: only IP addresses can be used here):
 
 ```
 [
