@@ -30,7 +30,7 @@ Video and slides will be made available as soon as possible following the presen
 
 ### Friday, October 3, 2025 at 2pm ET
 
-Re-scheduled for November 6, 2025 at 2pm ET
+Re-scheduled for November 7, 2025 at 2pm ET
 
 ### Friday, September 5, 2025 at 2pm ET
 
