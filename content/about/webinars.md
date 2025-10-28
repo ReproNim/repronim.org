@@ -11,6 +11,38 @@ Browse our complete collections of ReproNim webinar [videos](https://www.youtube
 
 ## Upcoming webinars
 
+### November 7, 2025 at 2pm ET
+
+This month’s webinar, (re-scheduled from October 3), features a special discussion on educational resources for reproducible neuroimaging and neuroscience, with our own ReproNim/INCF Fellowship alum [Johanna Bayer](https://nl.linkedin.com/in/johanna-bayer), (Donders Institute for Brain, Cognition and Behavior, Netherlands)  and ReproNim Faculty member [JB Poline](https://www.mcgill.ca/neuro/jean-baptiste-poline-phd), (Montreal Neurologic Institute, McGill University, Montreal, Canada). 
+
+Please note! There is a new registration link for this webinar, see below
+
+ReproNim First Fridays Webinar: Friday, November 7, 2025 at 2pm ET
+
+Presentation Title: “Educational Resources for Reproducible Research in Neuroimaging and Neuroscience.”
+
+Webinar [Registration](https://umassmed.zoom.us/meeting/register/mhxcAm_7R_msH3__kO0Lgg#/registration)
+
+Video and slides will be made available as soon as possible following the presentation.
+
+## Webinar presentations to date
+
+
+### Friday, October 3, 2025 at 2pm ET
+
+Re-scheduled for November 6, 2025 at 2pm ET
+
+### Friday, September 5, 2025 at 2pm ET
+
+[Anastasia Yendeki](https://www.nmr.mgh.harvard.edu/user/6737), (Associate Professor in Radiology, and Director of Circuitry Analysis, Laboratory for Computational Neuroimaging at the Martinos Center/Harvard Medical School) presents "We're going to need a bigger boat: Scaling human neuroimaging to meso- and microscopic resolutions."
+
+Anastasia is the lead PI of the center for Large-scale Imaging of Neural Circuits ([LINC](https://connects.mgh.harvard.edu/), a multi-institutional consortium funded by the NIH BRAIN Initiative [CONNECTS](https://www.ninds.nih.gov/news-events/news/highlights-announcements/nih-brain-initiative-launches-projects-develop-innovative-technologies-map-brain-incredible-detail) program, with the aim of imaging human and non-human primate brain circuitry across scales.
+
+Presentation Title: “We're going to need a bigger boat: Scaling human neuroimaging to meso- and microscopic resolutions.”
+
+[Video Recording](https://youtu.be/4yhXbzrX0X8) is now available.
+
+
 ### July and August 2025 ~ SUMMER HIATUS ~
 
 ReproNim 'First Fridays' Webinars resume on Friday, September 5, 2025
@@ -18,8 +50,7 @@ ReproNim 'First Fridays' Webinars resume on Friday, September 5, 2025
 Happy Summer Holidays to All!
 
 
-
-## Webinar presentations to date
+### Friday, June 6, 2025 at 2pm EDT
 
 [Stephanie Noble](https://cos.northeastern.edu/people/stephanie-noble/) (Northeastern University, and Director, [NeuroPRISM Lab](https://neuroprismlab.github.io/) joins us with a special guest presentation on "Towards more reliable and valid human brain mapping research" based on her highly interdisciplinary consideration of precision measurement and individually centered brain-behavior data in combination with best practices for machine learning and big data analysis. 	
 
