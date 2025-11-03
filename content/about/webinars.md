@@ -11,7 +11,7 @@ Browse our complete collections of ReproNim webinar [videos](https://www.youtube
 
 ## Upcoming webinars
 
-### November 7, 2025 at 2pm ET
+### Friday, November 7, 2025 at 2pm ET
 
 This month’s webinar, (re-scheduled from October 3), features a special discussion on educational resources for reproducible neuroimaging and neuroscience, with our own ReproNim/INCF Fellowship alum [Johanna Bayer](https://nl.linkedin.com/in/johanna-bayer), (Donders Institute for Brain, Cognition and Behavior, Netherlands)  and ReproNim Faculty member [JB Poline](https://www.mcgill.ca/neuro/jean-baptiste-poline-phd), (Montreal Neurologic Institute, McGill University, Montreal, Canada). 
 
@@ -24,6 +24,52 @@ Presentation Title: “Educational Resources for Reproducible Research in Neuroi
 Webinar [Registration](https://umassmed.zoom.us/meeting/register/mhxcAm_7R_msH3__kO0Lgg#/registration)
 
 Video and slides will be made available as soon as possible following the presentation.
+
+
+### Friday, December 5, 2025 at 2pm ET
+
+Guest speaker [Catie Chang](https://vkc.vumc.org/people/chang-catie) joins us from Vanderbilt University. Catie is the Sally and Dave Hopkins Faculty Fellow, and Assistant Professor (Departments of Computer Science, Electrical & Computer Engineering, and Biomedical Engineering). Work in her neurdylab includes analysis of large-scale brain activity, AI signal processing for multimodal integration and analysis, state-dependent brain activity, and fundamental aspects of fMRI signals and neural networks.
+
+Webinar Topic: Details to be announced
+
+
+### Friday, January 2, 2026 ~ No Webinar ~ Happy New Year!
+
+
+### Friday, February 6, 2026 at 2pm ET
+
+Speaker: ReproNim faculty member [Yaroslav Halchenko](https://pbs.dartmouth.edu/people/yaroslav-o-halchenko-0) (Dartmouth) is our featured speaker this month.
+
+Webinar Topic: Details to be announced
+
+
+### Friday, March 6, 2026 at 2pm ET
+
+Speaker: Special guest speaker [Kamil Ugurbil](https://www.cmrr.umn.edu/facultystaff/kamil/) joins us from the University of Minnesota.
+
+Webinar Topic: Details to be announced
+
+
+### April 3, 2026 at 2pm ET
+
+Speaker: ReproNim faculty member [Satra Ghosh](https://mcgovern.mit.edu/profile/satrajit-ghosh/) (MIT) is our featured speaker this month.
+
+Webinar Topic: Details to be announced
+
+
+### Friday, May 1, 2026 at 2pm ET
+
+Speaker: ReproNim faculty member [Jeffrey Grethe](https://profiles.ucsd.edu/jeffrey.grethe) (UCSD) is our featured speaker this month.
+
+Webinar Topic: Details to be announced
+
+
+### Friday, June 5, 2026 at 2pm ET
+
+Speaker: Special guest speaker Hugh Garavan (University of Vermont) is our featured speaker this month.
+
+Webinar Topic: Details to be announced
+
 
 ## Webinar presentations to date
 
