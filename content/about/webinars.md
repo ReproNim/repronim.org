@@ -50,7 +50,7 @@ Speaker: Special guest speaker [Kamil Ugurbil](https://www.cmrr.umn.edu/facultys
 Webinar Topic: Details to be announced
 
 
-### April 3, 2026 at 2pm ET
+### Friday, April 3, 2026 at 2pm ET
 
 Speaker: ReproNim faculty member [Satra Ghosh](https://mcgovern.mit.edu/profile/satrajit-ghosh/) (MIT) is our featured speaker this month.
 
