@@ -28,7 +28,7 @@ Video and slides will be made available as soon as possible following the presen
 
 ### Friday, December 5, 2025 at 2pm ET
 
-Guest speaker [Catie Chang](https://vkc.vumc.org/people/chang-catie) joins us from Vanderbilt University. Catie is the Sally and Dave Hopkins Faculty Fellow, and Assistant Professor (Departments of Computer Science, Electrical & Computer Engineering, and Biomedical Engineering). Work in her neurdylab includes analysis of large-scale brain activity, AI signal processing for multimodal integration and analysis, state-dependent brain activity, and fundamental aspects of fMRI signals and neural networks.
+Speaker: Guest speaker [Catie Chang](https://vkc.vumc.org/people/chang-catie) joins us from Vanderbilt University. Catie is the Sally and Dave Hopkins Faculty Fellow, and Assistant Professor (Departments of Computer Science, Electrical & Computer Engineering, and Biomedical Engineering). Work in her neurdylab includes analysis of large-scale brain activity, AI signal processing for multimodal integration and analysis, state-dependent brain activity, and fundamental aspects of fMRI signals and neural networks.
 
 Webinar Topic: Details to be announced
 
