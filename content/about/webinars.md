@@ -28,7 +28,7 @@ Video and slides will be made available as soon as possible following the presen
 
 ### Friday, December 5, 2025 at 2pm ET
 
-Speaker: Guest speaker [Catie Chang](https://vkc.vumc.org/people/chang-catie) joins us from Vanderbilt University. Catie is the Sally and Dave Hopkins Faculty Fellow, and Assistant Professor (Departments of Computer Science, Electrical & Computer Engineering, and Biomedical Engineering). Work in her neurdylab includes analysis of large-scale brain activity, AI signal processing for multimodal integration and analysis, state-dependent brain activity, and fundamental aspects of fMRI signals and neural networks.
+Speaker: [Catie Chang](https://vkc.vumc.org/people/chang-catie) joins us from Vanderbilt University. Catie is the Sally and Dave Hopkins Faculty Fellow, and Assistant Professor (Departments of Computer Science, Electrical & Computer Engineering, and Biomedical Engineering). Work in her neurdylab includes analysis of large-scale brain activity, AI signal processing for multimodal integration and analysis, state-dependent brain activity, and fundamental aspects of fMRI signals and neural networks.
 
 Webinar Topic: Details to be announced
 
@@ -45,7 +45,7 @@ Webinar Topic: Details to be announced
 
 ### Friday, March 6, 2026 at 2pm ET
 
-Speaker: Special guest speaker [Kamil Ugurbil](https://www.cmrr.umn.edu/facultystaff/kamil/) joins us from the University of Minnesota.
+Speaker: [Kamil Ugurbil](https://www.cmrr.umn.edu/facultystaff/kamil/) joins us from the University of Minnesota.
 
 Webinar Topic: Details to be announced
 
@@ -66,7 +66,7 @@ Webinar Topic: Details to be announced
 
 ### Friday, June 5, 2026 at 2pm ET
 
-Speaker: Special guest speaker Hugh Garavan (University of Vermont) is our featured speaker this month.
+Speaker: [Hugh Garavan](https://scholar.google.com/citations?user=EwNVxgEAAAAJ&hl=en) (University of Vermont) is our featured speaker this month.
 
 Webinar Topic: Details to be announced
 
