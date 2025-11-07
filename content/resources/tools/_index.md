@@ -35,26 +35,26 @@ For a general orientation to ReproNim resources, we suggest reviewing the [Getti
 
 In addition to our [Core Tools](#core-tools), ReproNim has developed an extensive set of additional tools that serve more specialized purposes. These include:
 
-* [BABS](https://github.com/PennLINC/babs) \- BIDS App Bootstrap: A reproducible, generalizable, and scalable Python package for BIDS App analysis of large datasets ([documentation](https://pennlinc-babs.readthedocs.io/en/stable/), [demo](https://github.com/ReproNim/babs-demo-ohbm2025))
-* [con/duct](https://github.com/con/duct) \- A helper to run a command, capture stdout/stderr and execution metadata
-* [Open Brain Consent](https://open-brain-consent.readthedocs.io/en/stable/) \- Make open data sharing a no-brainer for ethics committees
-* [reproflow](https://github.com/ReproNim/reproflow) \- Materials for ReproFlow: ReproNim tools to establish scalable and automated MRI and behavioral data acquisition and QC
-* [ReproMan](https://github.com/ReproNim/reproman) \- Simplify creation and management of computing environments in Neuroimaging
-* [repromon](https://github.com/ReproNim/repromon) \- A service to monitor data acquisition etc to alert if anything goes wrong
-* [reprostim](https://github.com/ReproNim/reprostim) \- Automated capture of audio-visual stimuli into BIDS datasets
-* [reprozip](https://github.com/ReproNim/reprozip) \- ReproZip is a tool that simplifies the process of creating reproducible experiments from command-line executions, a frequently-used common denominator in computational science.
-* [testkraken](https://github.com/ReproNim/testkraken) \- Generalized regression testing of scientific workflows
+* [BABS](https://github.com/PennLINC/babs) - BIDS App Bootstrap: A reproducible, generalizable, and scalable Python package for BIDS App analysis of large datasets ([documentation](https://pennlinc-babs.readthedocs.io/en/stable/), [demo](https://github.com/ReproNim/babs-demo-ohbm2025))
+* [con/duct](https://github.com/con/duct) - A helper to run a command, capture stdout/stderr and execution metadata
+* [Open Brain Consent](https://open-brain-consent.readthedocs.io/en/stable/) - Make open data sharing a no-brainer for ethics committees
+* [reproflow](https://github.com/ReproNim/reproflow) - Materials for ReproFlow: ReproNim tools to establish scalable and automated MRI and behavioral data acquisition and QC
+* [ReproMan](https://github.com/ReproNim/reproman) - Simplify creation and management of computing environments in Neuroimaging
+* [repromon](https://github.com/ReproNim/repromon) - A service to monitor data acquisition etc to alert if anything goes wrong
+* [reprostim](https://github.com/ReproNim/reprostim) - Automated capture of audio-visual stimuli into BIDS datasets
+* [reprozip](https://github.com/ReproNim/reprozip) - ReproZip is a tool that simplifies the process of creating reproducible experiments from command-line executions, a frequently-used common denominator in computational science.
+* [testkraken](https://github.com/ReproNim/testkraken) - Generalized regression testing of scientific workflows
 
 
 ### NIDM Converters
 
 The following tools support conversion of the outputs of specific tools into the NIDM representation.
 * FreeSurfer
-  * [segstats\_jsonld](https://github.com/ReproNim/segstats_jsonld) \- Script to Export Freesurfer-based Parcellation/Segmentation Stats and Provenance as JSON-LD and NIDM
+  * [segstats\_jsonld](https://github.com/ReproNim/segstats_jsonld) - Script to Export Freesurfer-based Parcellation/Segmentation Stats and Provenance as JSON-LD and NIDM
 * FSL
-  * [fsl\_seg\_to\_nidm](https://github.com/ReproNim/fsl_seg_to_nidm) \- Converts structural segmentation outputs from FSL's FIRST and FAST tool to NIDM
+  * [fsl\_seg\_to\_nidm](https://github.com/ReproNim/fsl_seg_to_nidm) - Converts structural segmentation outputs from FSL's FIRST and FAST tool to NIDM
 * ANTS
-  * [ants\_seg\_to\_nidm](https://github.com/ReproNim/ants_seg_to_nidm) \- ANTS-based structural segmentation exporter to NIDM
+  * [ants\_seg\_to\_nidm](https://github.com/ReproNim/ants_seg_to_nidm) - ANTS-based structural segmentation exporter to NIDM
 
 
 
