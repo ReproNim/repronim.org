@@ -35,7 +35,7 @@ For a general orientation to ReproNim resources, we suggest reviewing the [Getti
 
 In addition to our [Core Tools](#core-tools), ReproNim has developed an extensive set of additional tools that serve more specialized purposes. These include:
 
-* [BABS](https://github.com/PennLINC/babs) \- BIDS App Bootstrap System (BABS) for streamlining neuroimaging processing workflows with containerized BIDS Apps ([paper](https://doi.org/10.1162/imag_a_00074))
+* [BABS](https://github.com/PennLINC/babs) \- BIDS App Bootstrap System for streamlining neuroimaging processing workflows with containerized BIDS Apps ([paper](https://doi.org/10.1162/imag_a_00074))
 * [con/duct](https://github.com/con/duct) \- A helper to run a command, capture stdout/stderr and execution metadata
 * [ReproMan](https://github.com/ReproNim/reproman) \- Simplify creation and management of computing environments in Neuroimaging
 * [Open Brain Consent](https://open-brain-consent.readthedocs.io/en/stable/) \- Make open data sharing a no-brainer for ethics committees
