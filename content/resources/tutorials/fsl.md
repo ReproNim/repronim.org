@@ -65,3 +65,45 @@ e.g.
 fslsegstats2nidm -add_de -d ./proj/derivatives/fsl/sub-01/segstats.json -subjid sub-01 -n ./proj/nidm.ttl
 ```
 The FSL annotations will append to the nidm.ttl so all the project data can be queried in a central file.
+
+## FSL Common Data Elements
+Here is the mapping between FSL CDEs and regions of interest.
+
+| FSL\_code | Region of interest |
+| :---- | :---- |
+| fsl\_000001 | Background (voxels) |
+| fsl\_000002 | Background (volume) |
+| fsl\_000003 | Left-Accumbens-area (voxels) |
+| fsl\_000004 | Left-Accumbens-area (volume) |
+| fsl\_000005 | Left-Amygdala (voxels) |
+| fsl\_000006 | Left-Amygdala (volume) |
+| fsl\_000007 | Left-Caudate (voxels) |
+| fsl\_000008 | Left-Hippocampus (volume) |
+| fsl\_000009 | Left-Pallidum (voxels) |
+| fsl\_000010 | Left-Putamen (volume) |
+| fsl\_000011 | Left-Thalamus-Proper (voxels) |
+| fsl\_000012 | Right-Accumbens-area (volume) |
+| fsl\_000013 | Left-Putamen (voxels) |
+| fsl\_000014 | Left-Putamen (volume) |
+| fsl\_000015 | Left-Thalamus-Proper (voxels) |
+| fsl\_000016 | Left-Thalamus-Proper (volume) |
+| fsl\_000017 | Right-Accumbens-area (voxels) |
+| fsl\_000018 | Right-Accumbens-area (volume) |
+| fsl\_000019 | Right-Amygdala (voxels) |
+| fsl\_000020 | Right-Amygdala (volume) |
+| fsl\_000021 | Right-Caudate (voxels) |
+| fsl\_000022 | Right-Hippocampus (volume) |
+| fsl\_000023 | Right-Pallidum (voxels) |
+| fsl\_000024 | Right-Putamen (volume) |
+| fsl\_000025 | Right-Thalamus-Proper (voxels) |
+| fsl\_000026 | Right-Accumbens-area (volume) |
+| fsl\_000027 | Right-Putamen (voxels) |
+| fsl\_000028 | Right-Putamen (volume) |
+| fsl\_000029 | Right-Thalamus-Proper (voxels) |
+| fsl\_000030 | Right-Thalamus-Proper (volume) |
+| fsl\_000031 | csf (voxels) |
+| fsl\_000032 | csf (mm^3) |
+| fsl\_000033 | gray (voxels) |
+| fsl\_000034 | gray (mm^3) |
+| fsl\_000035 | white (voxels) |
+| fsl\_000036 | white (mm^3) |
