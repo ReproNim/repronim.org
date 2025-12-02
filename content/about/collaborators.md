@@ -94,7 +94,7 @@ The P41 Center provides their technology to Service Projects (SPs) that serve as
     - [Michael O'Shea](https://www.med.unc.edu/childrensresearch/directory/michael-oshea-md-mph/) and [Rebecca Fry](https://sph.unc.edu/adv_profile/rebecca-fry-phd/) (PIs)
     - Institution:University of North Carolina at Chapel Hill
 - SP3: [Neuroscience Gateway to Enable Dissemination of Computational and Data Processing Tools and Software](https://www.nsgportal.org/overview.html)
-    - [Amitava Majumdar](https://www.sdsc.edu/~majumdar/) and [Kenneth Yoshimoto](https://www.sdsc.edu/research/researcher_spotlight/yoshimoto_kenneth.html) and [Subhashini Sivagnanam](https://users.sdsc.edu/~sivagnan/) (PIs)
+    - [Amitava Majumdar](https://www.sdsc.edu/~majumdar/) and [Kenneth Yoshimoto](https://profiles.ucsd.edu/kenneth.yoshimoto) and [Subhashini Sivagnanam](https://users.sdsc.edu/~sivagnan/) (PIs)
     - Institution: University of California at San Diego
 - SP4: [CRCNS: NeuroBridge: Connecting Big Data for Reproducible Clinical Neuroscience](https://neurobridges.org/)
     - [Lei Wang](https://www.linkedin.com/in/lei-wang-3071759) (PI)
