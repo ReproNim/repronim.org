@@ -11,26 +11,12 @@ Browse our complete collections of ReproNim webinar [videos](https://www.youtube
 
 ## Upcoming webinars
 
-### Friday, November 7, 2025 at 2pm ET
-
-This month’s webinar, (re-scheduled from October 3), features a special discussion on educational resources for reproducible neuroimaging and neuroscience, with our own ReproNim/INCF Fellowship alum [Johanna Bayer](https://nl.linkedin.com/in/johanna-bayer), (Donders Institute for Brain, Cognition and Behavior, Netherlands)  and ReproNim Faculty member [JB Poline](https://www.mcgill.ca/neuro/jean-baptiste-poline-phd), (Montreal Neurologic Institute, McGill University, Montreal, Canada). 
-
-Please note! There is a new registration link for this webinar, see below
-
-ReproNim First Fridays Webinar: Friday, November 7, 2025 at 2pm ET
-
-Presentation Title: “Educational Resources for Reproducible Research in Neuroimaging and Neuroscience.”
-
-Webinar [Registration](https://umassmed.zoom.us/meeting/register/mhxcAm_7R_msH3__kO0Lgg#/registration)
-
-Video and slides will be made available as soon as possible following the presentation.
-
 
 ### Friday, December 5, 2025 at 2pm ET
 
-Speaker: [Catie Chang](https://vkc.vumc.org/people/chang-catie) joins us from Vanderbilt University. Catie is the Sally and Dave Hopkins Faculty Fellow, and Assistant Professor (Departments of Computer Science, Electrical & Computer Engineering, and Biomedical Engineering). Work in her neurdylab includes analysis of large-scale brain activity, AI signal processing for multimodal integration and analysis, state-dependent brain activity, and fundamental aspects of fMRI signals and neural networks.
+[Catie Chang](https://engineering.vanderbilt.edu/bio/catie-chang/) (Vanderbilt University, Departments of Computer Science, Electrical & Computer Engineering, Biomedical Engineering, and PI, [neurdylab](https://www.cchanglab.net/research)), and [Roza Bayrak](https://rgbayrak.github.io/) (Vanderbilt University, Electrical & Computer Engineering) join us to discuss how time-varying states of alertness and autonomic activity manifest in fMRI signals, along with tools/methods for joint analysis of fMRI and peripheral physiological signals in their presentation: “Dynamic brain-body states: implications for reproducible and interpretable neuroimaging.”
 
-Webinar Topic: Details to be announced
+Video Presentation and Slides will be made available as soon as possible following the presentation.
 
 
 ### Friday, January 2, 2026 ~ No Webinar ~ Happy New Year!
@@ -72,6 +58,14 @@ Webinar Topic: Details to be announced
 
 
 ## Webinar presentations to date
+
+### Friday, November 7, 2025 at 2pm ET
+
+This month’s webinar, (re-scheduled from October 3), features a special discussion on educational resources for reproducible neuroimaging and neuroscience, with our own ReproNim/INCF Fellowship alum [Johanna Bayer](https://nl.linkedin.com/in/johanna-bayer), (Donders Institute for Brain, Cognition and Behavior, Netherlands)  and ReproNim Faculty member [JB Poline](https://www.mcgill.ca/neuro/jean-baptiste-poline-phd), (Montreal Neurologic Institute, McGill University, Montreal, Canada). 
+
+Presentation Title: “Educational Resources for Reproducible Research in Neuroimaging and Neuroscience.”
+
+[Video Presentation](https://youtu.be/5vEEmjUFDIY) is now available.
 
 
 ### Friday, October 3, 2025 at 2pm ET
