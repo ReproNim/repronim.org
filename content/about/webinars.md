@@ -12,13 +12,6 @@ Browse our complete collections of ReproNim webinar [videos](https://www.youtube
 ## Upcoming webinars
 
 
-### Friday, December 5, 2025 at 2pm ET
-
-[Catie Chang](https://engineering.vanderbilt.edu/bio/catie-chang/) (Vanderbilt University, Departments of Computer Science, Electrical & Computer Engineering, Biomedical Engineering, and PI, [neurdylab](https://www.cchanglab.net/research)), and [Roza Bayrak](https://rgbayrak.github.io/) (Vanderbilt University, Electrical & Computer Engineering) join us to discuss how time-varying states of alertness and autonomic activity manifest in fMRI signals, along with tools/methods for joint analysis of fMRI and peripheral physiological signals in their presentation: “Dynamic brain-body states: implications for reproducible and interpretable neuroimaging.”
-
-Video Presentation and Slides will be made available as soon as possible following the presentation.
-
-
 ### Friday, January 2, 2026 ~ No Webinar ~ Happy New Year!
 
 
@@ -58,6 +51,14 @@ Webinar Topic: Details to be announced
 
 
 ## Webinar presentations to date
+
+### Friday, December 5, 2025 at 2pm ET
+
+[Catie Chang](https://engineering.vanderbilt.edu/bio/catie-chang/) (Vanderbilt University, Departments of Computer Science, Electrical & Computer Engineering, Biomedical Engineering, and PI, [neurdylab](https://www.cchanglab.net/research)), and [Roza Bayrak](https://rgbayrak.github.io/) (Vanderbilt University, Electrical & Computer Engineering) join us to discuss how time-varying states of alertness and autonomic activity manifest in fMRI signals, along with tools/methods for joint analysis of fMRI and peripheral physiological signals.
+
+Presentation Title: “Dynamic brain-body states: implications for reproducible and interpretable neuroimaging.”
+
+[Video Presentation](https://youtu.be/jzPISfLsaPo) is now available.
 
 ### Friday, November 7, 2025 at 2pm ET
 
