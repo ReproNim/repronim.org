@@ -12,6 +12,6 @@ We actively seek and support community engagement and feedback in the technical 
 - Become a [Collaborative or Service Project](/about/collaborators/).
 - Become a [ReproNim/INCF Fellow](/fellowship/).
 - Follow our [webinar series](/about/webinars/).
-- Subscribe to our [ReproNim YouTube Channel](https://www.youtube.com/channel/UCGX2sXmEdrDTgDuUGWHDSiT1NdQ/videos)
+- Subscribe to our [ReproNim YouTube Channel](https://www.youtube.com/@ReproNim/videos)
 - Find us on X (formerly Twitter) at [@ReproNim](https://x.com/repronim).
 - Drop in on our virtual office hours on the first Thursday of each month.  Find details in our [news](/news/).
