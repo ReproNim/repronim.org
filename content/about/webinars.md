@@ -58,7 +58,7 @@ Webinar Topic: Details to be announced
 
 Presentation Title: “Dynamic brain-body states: implications for reproducible and interpretable neuroimaging.”
 
-[Video Presentation](https://youtu.be/jzPISfLsaPo) is now available.
+[Video Presentation](https://youtu.be/jzPISfLsaPo) and [Slides](https://neurdylab.github.io/physai/assets/slides/repronim.pdf) are now available.
 
 ### Friday, November 7, 2025 at 2pm ET
 
