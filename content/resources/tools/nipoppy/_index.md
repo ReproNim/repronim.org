@@ -14,6 +14,8 @@ Nipoppy is the first end-to-end tool for neuroimaging analysis, integrating othe
 
 ## Citation information
 
+[RRID:SCR_027826](https://scicrunch.org/resolver/RRID:SCR_027826)
+
 ## Requisite knowledge to use
 
 - Command line familiarity
