@@ -1,0 +1,39 @@
+name: Fork Publications Notice
+
+on:
+  pull_request:
+    types: [opened]
+    paths:
+      - 'data/publications.yaml'
+      - 'scripts/generate_publications.py'
+
+jobs:
+  comment:
+    # Only run on fork PRs
+    if: github.event.pull_request.head.repo.full_name != github.repository
+    runs-on: ubuntu-latest
+    steps:
+      - name: Comment on PR
+        uses: actions/github-script@v7
+        with:
+          script: |
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: `## Publications Update Notice
+
+            This PR modifies publication-related files. Since this is a fork PR, the publications page cannot be automatically regenerated.
+
+            **Options:**
+
+            1. **Manual regeneration** - Run locally and commit:
+               \`\`\`bash
+               datalad run -m "Regenerate publications from DOIs" \\
+                 uv run python scripts/generate_publications.py
+               \`\`\`
+
+            2. **Reopen as non-fork PR** - If you have push permissions, push your branch directly to the main repository and open a PR from there. This allows the automation to run.
+
+            See [scripts/README.md](../blob/main/scripts/README.md) for setup instructions.`
+            })
