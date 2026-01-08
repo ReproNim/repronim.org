@@ -14,6 +14,8 @@ references to them (by NUMBER.LETTER) on other pages.
 
 ## ReproNim's four core principles
 
+Note:  These principles are a reformulation of ReproNim's [5 Steps to Reproducible Neuroimaging](https://legacy.repronim.org/5steps)
+
 <style>
     ol ol li { list-style-type: lower-alpha; }
 </style>
