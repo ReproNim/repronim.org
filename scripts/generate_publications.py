@@ -28,7 +28,7 @@ def fetch_citation(doi):
 
         # Fetch citation data and format as APA
         bibtex_data = BibTeX(import_doi(doi_url))
-        citation = format_bibtex(bibtex_data, style='apa')
+        citation = format_bibtex(bibtex_data, style='apa', formatter='html')
 
         return citation
     except Exception as e:
