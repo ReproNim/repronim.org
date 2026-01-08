@@ -18,6 +18,8 @@ Neurobagel is a front end to ReproNim infrastructure technologies.  Neurobagel i
 
 ## Citation information
 
+Please cite this resource using the following Research Resource Identifier (RRID): [RRID:SCR_027847](https://scicrunch.org/resolver/RRID:SCR_027847).
+
 ## Requisite knowledge to use
 
 - Command line familiarity.
