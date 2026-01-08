@@ -31,7 +31,10 @@ def fetch_citation(doi):
         citation = format_bibtex(bibtex_data, style='apa', formatter='html')
 
         return citation
+    except KeyboardInterrupt:
+        raise
     except Exception as e:
+        # Broad catch: duecredit can raise various exceptions (ValueError, network errors)
         print(f"Warning: Failed to fetch DOI {doi}: {e}", file=sys.stderr)
         return None
 
