@@ -6,6 +6,9 @@ on:
     paths:
       - 'data/publications.yaml'
 
+permissions:
+  contents: write
+
 jobs:
   regenerate:
     # Only run on non-fork PRs (forks can't push back)
