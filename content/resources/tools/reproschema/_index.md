@@ -19,6 +19,8 @@ ReproSchema applies reproducible neuroimaging principles to assessments, allowin
 
 ## Citation information
 
+Please cite ReproSchema using its Research Resource Identifier: [RRID:SCR_027848](https://scicrunch.org/resolver/RRID:SCR_027848).
+
 ## Requisite knowledge to use
 
 - Git familiarity
