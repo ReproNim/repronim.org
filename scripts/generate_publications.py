@@ -82,9 +82,10 @@ weight: 60
     print(f"\nGenerated {len(citations)} citations to {output_path}")
 
     if failed_dois:
-        print(f"\nWarning: {len(failed_dois)} DOIs failed to fetch:")
+        print(f"\nError: {len(failed_dois)} DOIs failed to fetch:", file=sys.stderr)
         for doi in failed_dois:
-            print(f"  - {doi}")
+            print(f"  - {doi}", file=sys.stderr)
+        sys.exit(1)
 
 
 def main():
