@@ -70,7 +70,7 @@ weight: 60
             print("✗")
 
     # Write the markdown file
-    with open(output_path, 'w') as f:
+    with open(output_path, 'w', encoding='utf-8') as f:
         f.write(frontmatter)
 
         for i, citation in enumerate(citations, 1):
@@ -92,7 +92,7 @@ def main():
 
     # Load DOIs from YAML
     print(f"Loading DOIs from: {doi_yaml}")
-    with open(doi_yaml, 'r') as f:
+    with open(doi_yaml, 'r', encoding='utf-8') as f:
         data = yaml.safe_load(f)
         dois = data.get('publication-dois', [])
 
