@@ -12,15 +12,20 @@ Browse our complete collections of ReproNim webinar [videos](https://www.youtube
 ## Upcoming webinars
 
 
-### Friday, January 2, 2026 ~ No Webinar ~ Happy New Year!
+
 
 
 ### Friday, February 6, 2026 at 2pm ET
 
 Speaker: ReproNim faculty member [Yaroslav Halchenko](https://pbs.dartmouth.edu/people/yaroslav-o-halchenko-0) (Dartmouth) is our featured speaker this month.
 
-Webinar Topic: Details to be announced
+ReproNim faculty member [Yaroslav Halchenko](https://pbs.dartmouth.edu/people/yaroslav-o-halchenko-0) (Dartmouth College, Psychological and Brain Sciences, Computer Science, and founding Director, [Center for Open Neuroscience](https://centerforopenneuroscience.org/whoweare) enlightens us with both big picture context and practical steps for end-to-end  execution of reproducible neuroimaging study workflows, from data acquisition all the way to publication, in his presentation “ReproFlow & YODA: Structure your studies, observable and reproducible they become.”
 
+Presentation Title: “ReproFlow & YODA: Structure your studies, observable and reproducible they become.”
+
+[Webinar Registration](https://umassmed.zoom.us/meeting/register/mhxcAm_7R_msH3__kO0Lgg) (Please note our new registration link)
+
+Video Presentation and Slides will be made available as soon as possible following the presentation.
 
 ### Friday, March 6, 2026 at 2pm ET
 
@@ -51,6 +56,9 @@ Webinar Topic: Details to be announced
 
 
 ## Webinar presentations to date
+
+
+### Friday, January 2, 2026 ~ No Webinar ~ Happy New Year!
 
 ### Friday, December 5, 2025 at 2pm ET
 
