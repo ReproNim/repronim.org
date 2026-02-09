@@ -56,7 +56,7 @@ ReproNim faculty member [Yaroslav Halchenko](https://pbs.dartmouth.edu/people/ya
 
 Presentation Title: “ReproFlow & YODA: Structure your studies, observable and reproducible they become.”
 
-[Video Presentation](https://youtu.be/1XbTbJ_P2x0)  is now available.
+[Video Presentation](https://youtu.be/1XbTbJ_P2x0) is now available.
 
 ### Friday, January 2, 2026 ~ No Webinar ~ Happy New Year!
 
