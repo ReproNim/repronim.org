@@ -13,25 +13,15 @@ Browse our complete collections of ReproNim webinar [videos](https://www.youtube
 
 
 
-
-
-### Friday, February 6, 2026 at 2pm ET
-
-Speaker: ReproNim faculty member [Yaroslav Halchenko](https://pbs.dartmouth.edu/people/yaroslav-o-halchenko-0) (Dartmouth) is our featured speaker this month.
-
-ReproNim faculty member [Yaroslav Halchenko](https://pbs.dartmouth.edu/people/yaroslav-o-halchenko-0) (Dartmouth College, Psychological and Brain Sciences, Computer Science, and founding Director, [Center for Open Neuroscience](https://centerforopenneuroscience.org/whoweare) enlightens us with both big picture context and practical steps for end-to-end  execution of reproducible neuroimaging study workflows, from data acquisition all the way to publication, in his presentation “ReproFlow & YODA: Structure your studies, observable and reproducible they become.”
-
-Presentation Title: “ReproFlow & YODA: Structure your studies, observable and reproducible they become.”
-
-[Webinar Registration](https://umassmed.zoom.us/meeting/register/mhxcAm_7R_msH3__kO0Lgg) (Please note our new registration link)
-
-Video Presentation and Slides will be made available as soon as possible following the presentation.
-
 ### Friday, March 6, 2026 at 2pm ET
 
 Speaker: [Kamil Ugurbil](https://www.cmrr.umn.edu/facultystaff/kamil/) joins us from the University of Minnesota.
 
 Webinar Topic: Details to be announced
+
+[Webinar Registration](https://umassmed.zoom.us/meeting/register/mhxcAm_7R_msH3__kO0Lgg) (Please note our new registration link)
+
+Video Presentation and Slides will be made available as soon as possible following the presentation.
 
 
 ### Friday, April 3, 2026 at 2pm ET
@@ -57,6 +47,14 @@ Webinar Topic: Details to be announced
 
 ## Webinar presentations to date
 
+
+### Friday, February 6, 2026 at 2pm ET
+
+ReproNim faculty member [Yaroslav Halchenko](https://pbs.dartmouth.edu/people/yaroslav-o-halchenko-0) (Dartmouth College, Psychological and Brain Sciences, Computer Science, and founding Director, [Center for Open Neuroscience](https://centerforopenneuroscience.org/whoweare) enlightens us with both big picture context and practical steps for end-to-end  execution of reproducible neuroimaging study workflows, from data acquisition all the way to publication, in his presentation “ReproFlow & YODA: Structure your studies, observable and reproducible they become.”
+
+Presentation Title: “ReproFlow & YODA: Structure your studies, observable and reproducible they become.”
+
+[Video Presentation](https://youtu.be/1XbTbJ_P2x0) is now available.
 
 ### Friday, January 2, 2026 ~ No Webinar ~ Happy New Year!
 
