@@ -30,7 +30,7 @@ We typically award five to ten fellowships per Fellowship year, with the total n
 
 ## How to become a Fellow
 
-The ReproNim/INCF Fellowship program is currently being offered in alternate years. We anticipate opening applications for the 2026 Fellowship class in January, 2026.
+The ReproNim/INCF Fellowship program is not running this year, but we do anticipate offering it again next year for 2027.
 
 [Take a look](/fellowship/resources/) at some of the many things our Fellows have done!
 
