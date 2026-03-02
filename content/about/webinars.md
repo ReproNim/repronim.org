@@ -15,7 +15,7 @@ Browse our complete collections of ReproNim webinar [videos](https://www.youtube
 
 ### Friday, March 6, 2026 at 2pm ET
 
-Kamil Ugurbil](https://www.cmrr.umn.edu/facultystaff/kamil/) (University of Minnesota Medical School; McKnight Endowed Chair and Professor of Radiology, jointly appointed in Medicine and Neuroscience, and founding Director for the Center for Magnetic Resonance Research) is our special guest speaker.
+[Kamil Ugurbil](https://www.cmrr.umn.edu/facultystaff/kamil/) (University of Minnesota Medical School; McKnight Endowed Chair and Professor of Radiology, jointly appointed in Medicine and Neuroscience, and founding Director for the Center for Magnetic Resonance Research) is our special guest speaker.
 
 Presentation Title: “Century of spin; from electrons to precision fMRI.”
 
