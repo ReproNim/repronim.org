@@ -12,25 +12,13 @@ Browse our complete collections of ReproNim webinar [videos](https://www.youtube
 ## Upcoming webinars
 
 
-
-### Friday, March 6, 2026 at 2pm ET
-
-[Kamil Ugurbil](https://www.cmrr.umn.edu/facultystaff/kamil/) (University of Minnesota Medical School; McKnight Endowed Chair and Professor of Radiology, jointly appointed in Medicine and Neuroscience, and founding Director for the Center for Magnetic Resonance Research) is our special guest speaker.
-
-Presentation Title: “Century of spin; from electrons to precision fMRI.”
-
-[Webinar Registration](https://umassmed.zoom.us/meeting/register/mhxcAm_7R_msH3__kO0Lgg) (Please note our new registration link)
-
-Kamil is a distinguished leader in the field for both the development and applications of high field MR, particularly in human neuroimaging. His work is notably focused on high spatiotemporal resolution and with high accuracy for both functional and anatomical information. He is a Member of National Academy of Medicine, and the American Academy of Arts and Sciences, and a recipient of numerous medals, including the IEEE Medal for Innovations in Healthcare Technology.
-
-Video Presentation and Slides will be made available as soon as possible following the presentation.
-
-
 ### Friday, April 3, 2026 at 2pm ET
 
 Speaker: ReproNim faculty member [Satra Ghosh](https://mcgovern.mit.edu/profile/satrajit-ghosh/) (MIT) is our featured speaker this month.
 
 Webinar Topic: Details to be announced
+
+[Webinar Registration](https://umassmed.zoom.us/meeting/register/mhxcAm_7R_msH3__kO0Lgg) (Please note our new registration link)
 
 
 ### Friday, May 1, 2026 at 2pm ET
@@ -49,6 +37,15 @@ Webinar Topic: Details to be announced
 
 ## Webinar presentations to date
 
+### Friday, March 6, 2026 at 2pm ET
+
+[Kamil Ugurbil](https://www.cmrr.umn.edu/facultystaff/kamil/) (University of Minnesota Medical School; McKnight Endowed Chair and Professor of Radiology, jointly appointed in Medicine and Neuroscience, and founding Director for the Center for Magnetic Resonance Research) is our special guest speaker.
+
+Kamil is a distinguished leader in the field for both the development and applications of high field MR, particularly in human neuroimaging. His work is notably focused on high spatiotemporal resolution and with high accuracy for both functional and anatomical information. He is a Member of National Academy of Medicine, and the American Academy of Arts and Sciences, and a recipient of numerous medals, including the IEEE Medal for Innovations in Healthcare Technology.
+
+Presentation Title: “Century of spin; from electrons to precision fMRI.”
+
+[Video Presentation](https://youtu.be/NWooJ9u2jIo) is now available.
 
 ### Friday, February 6, 2026 at 2pm ET
 
