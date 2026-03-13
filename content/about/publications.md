@@ -59,9 +59,9 @@ directory layouts. <i>Journal of Open Source Software</i>, <i>9</i>(99), 5839. h
 
 27. Modarres, M., Cochran, D., Kennedy, D. N., &amp; Frazier, J. A.. (2023). Comparison of comprehensive quantitative EEG metrics between typically developing boys and girls in resting state eyes-open and eyes-closed conditions. <i>Frontiers in Human Neuroscience</i>, <i>17</i>. https://doi.org/10.3389/fnhum.2023.1237651
 
-28. Lo, B. P., Donnelly, M. R., Barisano, G., &amp; Liew, S.-L.. (2023). A standardized protocol for manually segmenting stroke lesions on high-resolution T1-weighted MR images. <i>Frontiers in Neuroimaging</i>, <i>1</i>. https://doi.org/10.3389/fnimg.2022.1098604
+28. Tavenner, B. P., Donnelly, M. R., Barisano, G., &amp; Liew, S.-L.. (2023). A standardized protocol for manually segmenting stroke lesions on high-resolution T1-weighted MR images. <i>Frontiers in Neuroimaging</i>, <i>1</i>. https://doi.org/10.3389/fnimg.2022.1098604
 
-29. Ferris, J. K., Lo, B. P., Khlif, M. S., Brodtmann, A., Boyd, L. A., &amp; Liew, S.-L.. (2023). Optimizing automated white matter hyperintensity segmentation in individuals with stroke. <i>Frontiers in Neuroimaging</i>, <i>2</i>. https://doi.org/10.3389/fnimg.2023.1099301
+29. Ferris, J. K., Tavenner, B. P., Khlif, M. S., Brodtmann, A., Boyd, L. A., &amp; Liew, S.-L.. (2023). Optimizing automated white matter hyperintensity segmentation in individuals with stroke. <i>Frontiers in Neuroimaging</i>, <i>2</i>. https://doi.org/10.3389/fnimg.2023.1099301
 
 30. Queder, N., Tien, V. B., Abraham, S. A., Urchs, S. G. W., Helmer, K. G., Chaplin, D., van Erp, T. G. M., Kennedy, D. N., Poline, J.-B., Grethe, J. S., Ghosh, S. S., &amp; Keator, D. B.. (2023). NIDM-Terms: community-based terminology management for improved neuroimaging dataset descriptions and query. <i>Frontiers in Neuroinformatics</i>, <i>17</i>. https://doi.org/10.3389/fninf.2023.1174156
 
