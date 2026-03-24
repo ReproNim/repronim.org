@@ -14,7 +14,7 @@ Browse our complete collections of ReproNim webinar [videos](https://www.youtube
 
 ### Friday, April 3, 2026 at 2pm ET
 
-ReproNim faculty member [Satra Ghosh](https://mcgovern.mit.edu/profile/satrajit-ghosh/) (Massachusetts Institute of Technology, Senior Research Scientist, and Director of the [Open Data in Neuroscience Initiative](https://odin.mit.edu/index.html) at McGovern Institute for Brain Research at MIT) is our featured speaker this month. Satra brings a very broadly knoweldgeable perspective to bear on all of his endeavors, and his work encompasses a wealth of expertise in computer science, computational neuroscience and neuroimaging.
+ReproNim faculty member [Satra Ghosh](https://mcgovern.mit.edu/profile/satrajit-ghosh/) (Massachusetts Institute of Technology, Senior Research Scientist, and Director of the [Open Data in Neuroscience Initiative](https://odin.mit.edu/index.html) at McGovern Institute for Brain Research at MIT) is our featured speaker this month. Satra brings a very broadly knowledgeable perspective to bear on all of his endeavors, and his work encompasses a wealth of expertise in computer science, computational neuroscience and neuroimaging.
 
 Presentation Title:“Undata - an AI-assisted unraveling of challenges around data models and schemas.” 
 
