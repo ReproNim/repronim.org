@@ -20,6 +20,7 @@ Webinar Topic: Details to be announced
 
 [Webinar Registration](https://umassmed.zoom.us/meeting/register/mhxcAm_7R_msH3__kO0Lgg) (Please note our new registration link)
 
+
 ### Friday, June 5, 2026 at 2pm ET
 
 Speaker: [Hugh Garavan](https://scholar.google.com/citations?user=EwNVxgEAAAAJ&hl=en) (University of Vermont) is our featured speaker this month.
