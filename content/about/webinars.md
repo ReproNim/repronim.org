@@ -14,11 +14,13 @@ Browse our complete collections of ReproNim webinar [videos](https://www.youtube
 
 ### Friday, May 1, 2026 at 2pm ET
 
-Speaker: ReproNim faculty member [Jeffrey Grethe](https://profiles.ucsd.edu/jeffrey.grethe) (UCSD) is our featured speaker this month.
+Speaker: ReproNim faculty member [Jeffrey Grethe](https://profiles.ucsd.edu/jeffrey.grethe) (University of California, San Diego) and Co-Director, [FAIR Data Informatics Lab](https://www.fdilab.org/about) at UCSD, is our featured speaker this month, with a focus on [NIDM](http://nidm.nidash.org) (Neuroimaging Data Model) and some new things being introduced such as LinkML and AI query. Jeff’s work includes extensive development work for technical infrastructure and informatics networks for searchable open source neuroscience data and resources, as well as longstanding dedication to establishment and oversight commitment for data standards and data sharing.
 
-Webinar Topic: Details to be announced
+Presentation Title: “ReproNim and NIDM: Making FAIR Neuroimaging Data Queryable—Structured Data Meets AI.”
 
 [Webinar Registration](https://umassmed.zoom.us/meeting/register/mhxcAm_7R_msH3__kO0Lgg) (Please note our new registration link)
+
+Video Presentation and Slides will be made available as soon as possible following the presentation.
 
 
 ### Friday, June 5, 2026 at 2pm ET
@@ -36,7 +38,7 @@ ReproNim faculty member [Satra Ghosh](https://mcgovern.mit.edu/profile/satrajit-
 
 Presentation Title: “Undata - an AI-assisted unraveling of challenges around data models and schemas.”
 
-[Video Presentation](https://youtu.be/AgI32-hCNsM) is now available.
+[Video Presentation](https://youtu.be/AgI32-hCNsM) and [Slides]( https://docs.google.com/presentation/d/1NmuRP-S9gpAZAjGt-l6k3-VMY27FBy6zweo75HahrCM/edit?usp=sharing), as well as [Demo Screen Shots](https://drive.google.com/drive/folders/1cQKhWHYHWPj5gQQrbytnrv9TOb4nFa_f) are now available.
 
 
 ### Friday, March 6, 2026 at 2pm ET
