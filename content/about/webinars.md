@@ -38,7 +38,7 @@ ReproNim faculty member [Satra Ghosh](https://mcgovern.mit.edu/profile/satrajit-
 
 Presentation Title: “Undata - an AI-assisted unraveling of challenges around data models and schemas.”
 
-[Video Presentation](https://youtu.be/AgI32-hCNsM) and [Slides]( https://docs.google.com/presentation/d/1NmuRP-S9gpAZAjGt-l6k3-VMY27FBy6zweo75HahrCM/edit?usp=sharing), as well as [Demo Screen Shots](https://drive.google.com/drive/folders/1cQKhWHYHWPj5gQQrbytnrv9TOb4nFa_f) are now available.
+[Video Presentation](https://youtu.be/AgI32-hCNsM) and [Slides](https://docs.google.com/presentation/d/1NmuRP-S9gpAZAjGt-l6k3-VMY27FBy6zweo75HahrCM/edit?usp=sharing), as well as [Demo Screen Shots](https://drive.google.com/drive/folders/1cQKhWHYHWPj5gQQrbytnrv9TOb4nFa_f) are now available.
 
 
 ### Friday, March 6, 2026 at 2pm ET
