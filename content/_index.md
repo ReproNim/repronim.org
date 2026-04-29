@@ -63,4 +63,5 @@ A national biotechnology development center dedicated to developing tools and se
     >}}
 {{< /rn-buttons >}}
 
+<!-- FAQ content lives in data/faq.yaml — see docs/maintaining-faq.md for the editing guide. -->
 {{< rn-faq >}}

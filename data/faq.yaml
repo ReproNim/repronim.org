@@ -18,7 +18,7 @@
 # form "faq-<slugified-question>", e.g. "faq-how-do-i-get-started". Share
 # https://repronim.org/#faq-how-do-i-get-started to deep-link directly.
 #
-# Detailed maintainer guide: specs/001-faq-section/quickstart.md
+# Detailed maintainer guide: docs/maintaining-faq.md
 
 entries:
   - question: What is ReproNim?

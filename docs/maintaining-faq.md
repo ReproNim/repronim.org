@@ -1,10 +1,9 @@
-# Quickstart: Adding & Editing FAQ Entries
+# Maintaining the home page FAQ
 
-**Feature**: 001-faq-section
 **Audience**: ReproNim maintainers (anyone already comfortable editing site Markdown via GitHub)
 **Time to add a new entry**: ~5 minutes
 
-This guide assumes the FAQ feature has been implemented and shipped. If it hasn't, see `tasks.md` (created by `/speckit-tasks`) for the implementation steps.
+The Frequently Asked Questions section on the home page is generated from a single data file. This guide walks through adding, editing, reordering, and removing entries — all without touching any layout or template code.
 
 ## TL;DR
 
