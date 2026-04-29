@@ -49,6 +49,14 @@ menu:
         type: search
 
 params:
+  # Site author info — read by the local RSS template override at
+  # layouts/_default/list.rss.xml. Hextra v0.8.3 ships a template that
+  # references the legacy .Site.Author, which Hugo 0.160+ no longer
+  # provides; the override reads from site.Params.author instead.
+  author:
+    name: ReproNim
+    email: info@repronim.org
+
   navbar:
     displayTitle: ReproNim
     displayLogo: true
