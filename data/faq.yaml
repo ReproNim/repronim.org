@@ -1,0 +1,66 @@
+# Home page Frequently Asked Questions
+#
+# Each item under `entries:` becomes one expandable question on the home page.
+# Order in this list = order on the page. To add, edit, or remove a question,
+# just edit this file and commit.
+#
+# Schema:
+#   - question: Short question text (plain text, ends with "?").
+#     answer:   |
+#       Multi-line Markdown answer. Use the "|" pipe so newlines and
+#       lists are preserved. Links and **emphasis** work normally.
+#     id:       (optional) explicit URL anchor for deep-linking, e.g.
+#               "fellowship-apply". Use lowercase, kebab-case. If you set
+#               this once, you can later reword the question without
+#               breaking external links to it.
+#
+# Anchors auto-generated from the question (when no `id:` is set) take the
+# form "faq-<slugified-question>", e.g. "faq-how-do-i-get-started". Share
+# https://repronim.org/#faq-how-do-i-get-started to deep-link directly.
+#
+# Detailed maintainer guide: specs/001-faq-section/quickstart.md
+
+entries:
+  - question: What is ReproNim?
+    answer: |
+      ReproNim is a national biotechnology development center dedicated to
+      developing tools and services that increase efficiency, rigor,
+      reproducibility, transparency, and FAIRness in neuroimaging. See the
+      [About page](/about/) for the center's history, team, and mission.
+
+  - question: Who is ReproNim for?
+    answer: |
+      Researchers, students, data managers, and institutions working with
+      neuroimaging data — at any stage of a project. If you produce, share,
+      analyze, or steward MRI/EEG/MEG datasets and want to make that work
+      more reproducible, ReproNim's tools and guidance are aimed at you.
+
+  - question: How do I get started?
+    answer: |
+      The [Getting Started](/resources/getting-started/) page is the best
+      entry point. From there you can branch into specific
+      [tools](/resources/tools/) and [tutorials](/resources/) depending on
+      what you're trying to do.
+
+  - question: Where can I find ReproNim's tools?
+    answer: |
+      All recommended tools are catalogued on the
+      [Tools page](/resources/tools/), with links to documentation, tutorials,
+      and community help forums for each one.
+
+  - question: How can I participate in the ReproNim community?
+    answer: |
+      Visit the [Participate page](/participate/) for current opportunities —
+      working groups, hackathons, webinars, and ways to contribute to ongoing
+      projects.
+
+  - question: Where can I get help or attend office hours?
+    answer: |
+      Email [info@repronim.org](mailto:info@repronim.org) anytime. Virtual
+      drop-in office hours run on the first Thursday of every month — see the
+      [Help page](/help/) for details and additional support resources.
+
+  - question: How do I apply to the ReproNim Fellowship?
+    answer: |
+      Application timelines, eligibility, and current cycle details live on
+      the [Fellowship page](/fellowship/).

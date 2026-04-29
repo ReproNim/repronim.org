@@ -62,3 +62,5 @@ A national biotechnology development center dedicated to developing tools and se
         subtitle="Why reproducible neuroimaging" 
     >}}
 {{< /rn-buttons >}}
+
+{{< rn-faq >}}

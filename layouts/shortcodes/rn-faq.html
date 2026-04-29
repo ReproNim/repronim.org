@@ -1,0 +1,128 @@
+{{- with site.Data.faq -}}
+{{- with .entries -}}
+{{- $seen := slice -}}
+<section class="rn-faq" aria-labelledby="rn-faq-heading">
+  <h2 id="rn-faq-heading">Frequently Asked Questions</h2>
+
+  {{- range $i, $entry := . }}
+    {{- $q := $entry.question | default "" -}}
+    {{- $a := $entry.answer | default "" -}}
+    {{- if not $q -}}
+      {{- warnf "rn-faq: skipping entry %d — missing or empty 'question' field" $i -}}
+    {{- else if not $a -}}
+      {{- warnf "rn-faq: skipping entry %q — missing or empty 'answer' field" $q -}}
+    {{- else -}}
+      {{- $rawId := "" -}}
+      {{- with $entry.id -}}
+        {{- $rawId = . -}}
+      {{- end -}}
+      {{- $id := "" -}}
+      {{- if $rawId -}}
+        {{- $idPattern := `^[a-z0-9][a-z0-9-]*$` -}}
+        {{- if findRE $idPattern $rawId -}}
+          {{- $id = $rawId -}}
+        {{- else -}}
+          {{- warnf "rn-faq: id %q for question %q is invalid (must match %s); falling back to auto-generated slug" $rawId $q $idPattern -}}
+          {{- $id = printf "faq-%s" (urlize $q) -}}
+        {{- end -}}
+      {{- else -}}
+        {{- $id = printf "faq-%s" (urlize $q) -}}
+      {{- end -}}
+      {{- /* duplicate-id detection: append -2, -3, ... if needed */ -}}
+      {{- $finalId := $id -}}
+      {{- $n := 2 -}}
+      {{- range $seen -}}
+        {{- if eq . $finalId -}}
+          {{- $finalId = printf "%s-%d" $id $n -}}
+          {{- $n = add $n 1 -}}
+        {{- end -}}
+      {{- end -}}
+      {{- if ne $finalId $id -}}
+        {{- warnf "rn-faq: duplicate anchor for question %q — using %q. Consider setting an explicit 'id:' field in data/faq.yaml." $q $finalId -}}
+      {{- end -}}
+      {{- $seen = $seen | append $finalId }}
+  <details class="rn-faq-item" id="{{ $finalId }}">
+    <summary>{{ $q }}</summary>
+    <div class="rn-faq-answer">
+      {{ $a | markdownify }}
+    </div>
+  </details>
+    {{- end -}}
+  {{- end }}
+
+  <style>
+    .rn-faq {
+      margin-top: 2.5rem;
+      margin-bottom: 1.5rem;
+      text-align: left;
+    }
+    .rn-faq h2#rn-faq-heading {
+      text-align: left;
+      margin-bottom: 1rem;
+    }
+    .rn-faq-item {
+      border-top: 1px solid rgba(127, 127, 127, 0.3);
+      padding: 0.75rem 0;
+    }
+    .rn-faq-item:last-of-type {
+      border-bottom: 1px solid rgba(127, 127, 127, 0.3);
+    }
+    .rn-faq-item > summary {
+      cursor: pointer;
+      font-weight: 600;
+      list-style: none;
+      padding: 0.25rem 0;
+      position: relative;
+      padding-right: 1.5rem;
+    }
+    .rn-faq-item > summary::-webkit-details-marker {
+      display: none;
+    }
+    .rn-faq-item > summary::after {
+      content: "+";
+      position: absolute;
+      right: 0.25rem;
+      top: 50%;
+      transform: translateY(-50%);
+      font-weight: 400;
+      font-size: 1.25rem;
+      line-height: 1;
+    }
+    .rn-faq-item[open] > summary::after {
+      content: "\2212"; /* unicode minus */
+    }
+    .rn-faq-item > summary:focus-visible {
+      outline: 2px solid currentColor;
+      outline-offset: 2px;
+      border-radius: 2px;
+    }
+    .rn-faq-answer {
+      padding: 0.5rem 0 0.25rem;
+      line-height: 1.6;
+    }
+    .rn-faq-answer > :first-child { margin-top: 0; }
+    .rn-faq-answer > :last-child  { margin-bottom: 0; }
+  </style>
+
+  <script>
+    (function () {
+      function openFromHash() {
+        var hash = window.location.hash;
+        if (!hash || hash.length < 2) return;
+        var el = document.getElementById(decodeURIComponent(hash.substring(1)));
+        if (el && el.tagName && el.tagName.toLowerCase() === "details" && el.classList.contains("rn-faq-item")) {
+          el.open = true;
+          el.scrollIntoView({ block: "start" });
+        }
+      }
+      if (document.readyState === "loading") {
+        document.addEventListener("DOMContentLoaded", openFromHash);
+      } else {
+        openFromHash();
+      }
+      window.addEventListener("hashchange", openFromHash);
+    })();
+  </script>
+</section>
+{{- end -}}
+{{- end -}}

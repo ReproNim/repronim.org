@@ -45,6 +45,10 @@ Every time you add commits to the Pull Request, Netlify will automatically updat
 
 Once approved, a maintainer will merge your PR. If your changes need revision, follow their instructions and update your PR.
 
+## Editing the home page FAQ
+
+The Frequently Asked Questions section on the home page is generated from a single data file: [`data/faq.yaml`](./data/faq.yaml). To add, edit, reorder, or remove a question, edit that file directly via the GitHub web UI (no template or layout changes are needed for ordinary content edits). The file's header comment documents the schema; for a longer walkthrough see [`specs/001-faq-section/quickstart.md`](./specs/001-faq-section/quickstart.md).
+
 ## Local Development
 
 To set up a local development environment:
