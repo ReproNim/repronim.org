@@ -11,26 +11,27 @@ Browse our complete collections of ReproNim webinar [videos](https://www.youtube
 
 ## Upcoming webinars
 
-
-### Friday, May 1, 2026 at 2pm ET
-
-Speaker: ReproNim faculty member [Jeffrey Grethe](https://profiles.ucsd.edu/jeffrey.grethe) (University of California, San Diego) and Co-Director, [FAIR Data Informatics Lab](https://www.fdilab.org/about) at UCSD, is our featured speaker this month, with a focus on [NIDM](http://nidm.nidash.org) (Neuroimaging Data Model) and some new things being introduced such as LinkML and AI query. Jeff’s work includes extensive development work for technical infrastructure and informatics networks for searchable open source neuroscience data and resources, as well as longstanding dedication to establishment and oversight commitment for data standards and data sharing.
-
-Presentation Title: “ReproNim and NIDM: Making FAIR Neuroimaging Data Queryable—Structured Data Meets AI.”
-
-[Webinar Registration](https://umassmed.zoom.us/meeting/register/mhxcAm_7R_msH3__kO0Lgg) (Please note our new registration link)
-
-Video Presentation and Slides will be made available as soon as possible following the presentation.
-
-
 ### Friday, June 5, 2026 at 2pm ET
 
 Speaker: [Hugh Garavan](https://scholar.google.com/citations?user=EwNVxgEAAAAJ&hl=en) (University of Vermont) is our featured speaker this month.
 
 Webinar Topic: Details to be announced
 
+[Webinar Registration](https://umassmed.zoom.us/meeting/register/mhxcAm_7R_msH3__kO0Lgg) (Please note our new registration link)
+
+Video Presentation and Slides will be made available as soon as possible following the presentation.
+
 
 ## Webinar presentations to date
+
+### Friday, May 1, 2026 at 2pm ET
+
+ReproNim faculty member [Jeffrey Grethe](https://profiles.ucsd.edu/jeffrey.grethe) (University of California, San Diego) and Co-Director, [FAIR Data Informatics Lab](https://www.fdilab.org/about) at UCSD, is our featured speaker this month, with a focus on [NIDM](http://nidm.nidash.org) (Neuroimaging Data Model) and some new things being introduced such as LinkML and AI query. Jeff’s work includes extensive development work for technical infrastructure and informatics networks for searchable open source neuroscience data and resources, as well as longstanding dedication to establishment and oversight commitment for data standards and data sharing.
+
+Presentation Title: “ReproNim and NIDM: Making FAIR Neuroimaging Data Queryable—Structured Data Meets AI.”
+
+[Video Presentation](https://youtu.be/1gM3OzAkePg) is now available.
+
 
 ### Friday, April 3, 2026 at 2pm ET
 
