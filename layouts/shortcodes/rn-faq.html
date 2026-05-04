@@ -63,6 +63,9 @@
     .rn-faq-item {
       border-top: 1px solid rgba(127, 127, 127, 0.3);
       padding: 0.75rem 0;
+      /* Offset deep-link scroll so the targeted entry lands below the
+         Hextra sticky navbar (--navbar-height) instead of behind it. */
+      scroll-margin-top: calc(var(--navbar-height, 4rem) + 0.5rem);
     }
     .rn-faq-item:last-of-type {
       border-bottom: 1px solid rgba(127, 127, 127, 0.3);
