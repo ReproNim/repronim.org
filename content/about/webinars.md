@@ -30,7 +30,7 @@ ReproNim faculty member [Jeffrey Grethe](https://profiles.ucsd.edu/jeffrey.greth
 
 Presentation Title: “ReproNim and NIDM: Making FAIR Neuroimaging Data Queryable—Structured Data Meets AI.”
 
-[Video Presentation](https://youtu.be/1gM3OzAkePg) is now available.
+[Video Presentation](https://youtu.be/1gM3OzAkePg) and [Slides](https://drive.google.com/drive/folders/1LYx5jmv5zhtSxnzIvGbCVpr2iTIRhg7t) are now available.
 
 
 ### Friday, April 3, 2026 at 2pm ET
