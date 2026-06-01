@@ -13,9 +13,9 @@ Browse our complete collections of ReproNim webinar [videos](https://www.youtube
 
 ### Friday, June 5, 2026 at 2pm ET
 
-Speaker: [Hugh Garavan](https://scholar.google.com/citations?user=EwNVxgEAAAAJ&hl=en) (University of Vermont) is our featured speaker this month.
+Speaker: [Hugh Garavan](https://scholar.google.com/citations?user=EwNVxgEAAAAJ&hl=en) (University of Vermont;Professor, Departments of Psychiatry and Psychology) is our featured speaker this month. Hugh is a cognitive neuroscientist with very extensive experience using structural and functional neuroimaging  to study cognitive control and reward processes, particularly in adolescent development, including addiction and mental health issues. He has notable leadership roles and contributions to a spectrum of longitudinal high impact neuroimaging studies and with large data sets of brain and behavioral development, including Site PI and Associate Directory roles for the Adolescent Brain Cognitive Development ([ABCD](https://abcdstudy.org]) and Healthy Brain Child Development ([HBCD](https://hbcdstudy.org)]) studies, as well as co-founder of the [ENIGMA-Addiction working group](https://www.enigmaaddictionconsortium.com)], and a co-investigator on the [IMAGEN](https://www.imagen-project.org/the-project)] project.  
 
-Webinar Topic: Details to be announced
+Presentation Title: “Capturing individual differences in ABCD: Insights into task fMRI and cannabis use.”
 
 [Webinar Registration](https://umassmed.zoom.us/meeting/register/mhxcAm_7R_msH3__kO0Lgg) (Please note our new registration link)
 
