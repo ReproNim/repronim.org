@@ -26,7 +26,7 @@ For a general orientation to ReproNim resources, we suggest reviewing the [Getti
 ## Infrastructure
 
 - [ReproLake](reprolake/index.html): A public triplestore of neuroimaging metadata.
-- [ReproNim/containers](https://github.com/ReproNim/containers):  A public set of containers for reproducible neuroimaging
+- [ReproNim/containers](https://github.com/ReproNim/containers): A public set of containers for reproducible neuroimaging.
 
 ## Best Practices
 
