@@ -49,6 +49,11 @@ menu:
         type: search
 
 params:
+  # Populates RSS managingEditor/webMaster (read by Hextra's RSS template).
+  author:
+    name: ReproNim
+    email: info@repronim.org
+
   navbar:
     displayTitle: ReproNim
     displayLogo: true

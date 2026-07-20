@@ -1,5 +1,5 @@
 {{ $listParam := .Get 0 }} <!-- Get the first argument passed to the shortcode -->
-{{ $people := index .Site.Data $listParam }}
+{{ $people := index hugo.Data $listParam }}
 
 <link rel="stylesheet" href="/css/people.css">
 <div class="people-gallery">
