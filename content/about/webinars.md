@@ -62,7 +62,7 @@ ReproNim faculty member [Yaroslav Halchenko](https://pbs.dartmouth.edu/people/ya
 
 Presentation Title: “YODA: Structure your studies, observable and reproducible they become.”
 
-Video Presentation: [YouTube](https://youtu.be/1XbTbJ_P2x0), [ReproTube](https://datasets.datalad.org/repronim/ReproTube/ReproNim/web/#/video/1XbTbJ_P2x0) is now available.
+Video Presentation: [YouTube](https://youtu.be/1XbTbJ_P2x0), [ReproTube](https://datasets.datalad.org/repronim/ReproTube/ReproNim/web/#/video/1XbTbJ_P2x0) and [Slides](https://datasets.datalad.org/centerforopenneuroscience/talks/2026-repronim-YODA-BIDS-webinar.html#/) are now available.
 
 ### Friday, January 2, 2026 ~ No Webinar ~ Happy New Year!
 
