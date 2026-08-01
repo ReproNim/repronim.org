@@ -244,7 +244,7 @@ Our own [David Kennedy](https://profiles.umassmed.edu/display/130002) (ReproNim 
 [Slides](https://docs.google.com/presentation/d/1MkW5heQLe-zKRoGOF2PgrF1XKIHaUCWBxE1-9SBFlTM/edit#slide=id.g154688a9f52_0_408) are now available.
 
 ### Friday, December 2, 2022 at 2pm EST
-Special guest [Keith Bush](https://uams-triprofiles.uams.edu/profiles/display/1802861) shares his wisdom and experience in implementing best practices and tools for enhancing the rigor and reproducibility of neuroimaging throughout the [Brain Imaging Research Center at the University of Arkansas for Medical Sciences](https://psychiatry.uams.edu/research/birc/?_ga=1.22816571.1823374017.1366814353) with a presentation on Transitioning a Neuroimaging Research Center to Open and Reproducible Science: A Case Study. See his [recent publication](https://www.frontiersin.org/articles/10.3389/fdata.2022.988084/full) on lessons learned!
+Special guest [Keith Bush](https://uams-triprofiles.uams.edu/profiles/display/1802861) shares his wisdom and experience in implementing best practices and tools for enhancing the rigor and reproducibility of neuroimaging throughout the [Brain Imaging Research Center at the University of Arkansas for Medical Sciences](https://psychiatry.uams.edu/research/brain-imaging-research-center/) with a presentation on Transitioning a Neuroimaging Research Center to Open and Reproducible Science: A Case Study. See his [recent publication](https://www.frontiersin.org/articles/10.3389/fdata.2022.988084/full) on lessons learned!
 
 [Video Presentation](https://youtu.be/zFr8DyTGhxQ) and
 [Slides](https://drive.google.com/drive/folders/1B0EyiRsOP8-cBKD3SZDxGT9jZYCALlTC) are now available.
@@ -267,7 +267,7 @@ Special guest speaker [Ted Satterthwaite](https://www.pennlinc.io//team/Ted-Satt
 [Video Presentation](https://www.youtube.com/watch?v=6hgiH7BYKPs) is now available.
 
 ### Friday, May 6, 2022 at 2pm EDT
-We welcome guest speaker [Eugenio Iglesias](https://lemon.martinos.org/pi/) from MGH/HMS and the Martinos Center for Biomedical Imaging, for a presentation on Synth*: Domain Randomization for out-of-the-box Brain Analysis with Enhanced Reproducibility.
+We welcome guest speaker [Eugenio Iglesias](https://www.martinos.org/investigator/juan-eugenio-iglesias/) from MGH/HMS and the Martinos Center for Biomedical Imaging, for a presentation on Synth*: Domain Randomization for out-of-the-box Brain Analysis with Enhanced Reproducibility.
 
 [Video Presentation](https://www.youtube.com/watch?v=ET3Cw1Z-KUw) is now available.
 
@@ -312,7 +312,7 @@ We kick off our fall schedule with special guest speakers [David Van Essen](http
 [Slides](https://docs.google.com/presentation/d/1_74sex8RuFiN389hv85Pv0eo-dpNVqCu/edit#slide=id.p1) are available.
 
 ### Friday, July 2, 2021 at 2pm EDT
-ReproNim collaborators [Michael O'Shea](https://www.med.unc.edu/childrensresearch/directory/michael-oshea-md-mph/) and the [ELGAN](https://elgan.fpg.unc.edu/) team discuss Neuroimaging Studies of Consequences of Extremely Premature Birth in partnership with our own David Kennedy for related discussion of ReproNim-enabled Diffusion Imaging Analyses
+ReproNim collaborators [Michael O'Shea](https://web.archive.org/web/20250323133550/https://www.med.unc.edu/childrensresearch/directory/michael-oshea-md-mph/) and the [ELGAN](https://elgan.fpg.unc.edu/) team discuss Neuroimaging Studies of Consequences of Extremely Premature Birth in partnership with our own David Kennedy for related discussion of ReproNim-enabled Diffusion Imaging Analyses
 
 [Video](https://youtu.be/gSI_Do8OIqg) is now available, as are both [Mike O'Shea's Slides](https://drive.google.com/drive/folders/1e-3kNU6vEGm7DKeyDjf3vIKg34C7xoJf) and [David Kennedy's Slides](https://docs.google.com/presentation/d/1NdzNF88y5ZvlXZ5UVY_WSHHxi5pzC32dLNJ0IZRX1So/edit#slide=id.ge348a8c958_0_159)
 
