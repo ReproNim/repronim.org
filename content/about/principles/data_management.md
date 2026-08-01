@@ -39,7 +39,7 @@ We recommend using  [**DataLad**](/resources/tools/datalad/): for managing and s
 * ***Some things you can do***
   * ***Learn more:***
     * Tutorial:  [Version control systems](https://www.repronim.org/module-reproducible-basics/02-vcs/)
-    * [**Yoda Principles**](https://handbook.datalad.org/en/latest/basics/101-127-yoda.html):  Version everything and build everything off these versions. Three simple rules for making it easier to track versions across datasets and code through consistent directory names and structures.
+    * [**STAMPED Principles**](https://stamped-principles.org/): Seven properties (**S**elf-contained, **T**racked, **A**ctionable, **M**odular, **P**ortable, **E**phemeral, **D**istributable) of scientific research objects — a generalization of the earlier [**YODA Principles**](https://github.com/myyoda) covering directory layout, version control, container-based execution, and distributability. Companion resources: [examples](https://examples.stamped-principles.org/) and [compliance checklist](https://checklist.stamped-principles.org/).
 
 **2c. Annotate data using standard, reproducible procedures**
 

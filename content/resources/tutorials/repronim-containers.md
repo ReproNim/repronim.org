@@ -15,7 +15,7 @@ weight: 5
 ## Challenge
 
 Using version control and automation to execute procedures can produce re-executable and provenance-rich results, but the task can appear daunting.
-Following best-practices for file layouts (DataLad + YODA Principles) provide clear connections (via subdatasets) between the source data and the derivative data that is produced.
+Following best-practices for file layouts ([STAMPED Principles](https://stamped-principles.org/), building on the earlier [YODA Principles](https://github.com/myyoda)) provide clear connections (via subdatasets) between the source data and the derivative data that is produced.
 Additionally, utilizing `datalad run` with `repronim-containers` preserves the provenance of exactly what software versions were used and how, leaving a detailed trail for future work.
 
 ## Exercise
@@ -50,6 +50,7 @@ your use case:
 - [Datalad](https://datalad.org)
 - [datalad-container extension](http://docs.datalad.org/projects/container/en/latest/index.html)
 - [YODA Organigram](https://github.com/myyoda/poster/blob/master/ohbm2018.pdf)
+- [STAMPED Principles](https://stamped-principles.org/) — see also the [examples collection](https://examples.stamped-principles.org/) and [compliance checklist](https://checklist.stamped-principles.org/)
 - [Singularity/Apptainer](https://apptainer.org/)
 
 ## Step by step guide
@@ -71,7 +72,7 @@ pip install datalad-container
 
 ### Step 2: Start a DataLad dataset
 
-Following YODA, our dataset for the results is **the** dataset that will contain everything needed to produce those results.
+Following YODA (now generalized as [STAMPED](https://stamped-principles.org/) — Self-contained + Tracked + Distributable), our dataset for the results is **the** dataset that will contain everything needed to produce those results.
 
 ```bash
 mkdir ~/my-experiments
