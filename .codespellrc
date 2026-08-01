@@ -1,6 +1,6 @@
 [codespell]
 # Ref: https://github.com/codespell-project/codespell#using-a-config-file
-skip = .git*,go.sum,i18n,*.css,.codespellrc,public
+skip = .git*,go.sum,i18n,*.css,.codespellrc,public,*.svg
 check-hidden = true
 # lines with names in publications
 ignore-regex = (^- (name|.*\bdoi):.*|fnndsc\.childrens\.harvard\.edu)
