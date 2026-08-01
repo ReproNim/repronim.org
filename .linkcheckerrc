@@ -29,6 +29,11 @@ ignore =
   ^https://www\.umassmed\.edu/news/news-archives/2022/02/david-kennedy-awarded-$6-million-repronim-brain-imaging-grant
   ^https://bri\.ucla\.edu/people/susan-bookheimer/
   ^https://scholar\.google\.com/citations
+  # Blocks scripted user agents (403 to curl/linkchecker) but works in a real browser
+  ^https://contecenter\.uci\.edu/overall-center/
+  ^https://matter\.childmind\.org/
+  # Unreachable from GitHub Actions runners (connect/read timeout) but resolves elsewhere
+  ^https://connects\.mgh\.harvard\.edu/
 
 [output]
 ignoreerrors=
