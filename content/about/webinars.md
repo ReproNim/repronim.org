@@ -15,18 +15,22 @@ Browse our complete collection of ReproNim webinars via:
 
 ## Upcoming webinars
 
-### Friday, June 5, 2026 at 2pm ET
+### Summer Hiatus (July-September, 2026)
 
-Speaker: [Hugh Garavan](https://scholar.google.com/citations?user=EwNVxgEAAAAJ&hl=en) (University of Vermont; Professor, Departments of Psychiatry and Psychology) is our featured speaker this month. Hugh is a cognitive neuroscientist with very extensive experience using structural and functional neuroimaging to study cognitive control and reward processes, particularly in adolescent development, including addiction and mental health issues. He has notable leadership roles and contributions to a spectrum of longitudinal high impact neuroimaging studies and with large data sets of brain and behavioral development, including Site PI and Associate Director roles for the Adolescent Brain Cognitive Development ([ABCD](https://abcdstudy.org)) and Healthy Brain Child Development ([HBCD](https://hbcdstudy.org)) studies, as well as co-founder of the [ENIGMA-Addiction working group](https://www.enigmaaddictionconsortium.com), and a co-investigator on the [IMAGEN](https://www.imagen-project.org/the-project) project.  
+ReproNim's 'First Fridays' monthly webinars will resume on Friday, October 2, for the 2026-2027 season.
 
-Presentation Title: “Capturing individual differences in ABCD: Insights into task fMRI and cannabis use.”
 
-[Webinar Registration](https://umassmed.zoom.us/meeting/register/mhxcAm_7R_msH3__kO0Lgg) (Please note our new registration link)
-
-Video Presentation and Slides will be made available as soon as possible following the presentation.
 
 
 ## Webinar presentations to date
+
+### Friday, June 5, 2026 at 2pm ET
+
+[Hugh Garavan](https://scholar.google.com/citations?user=EwNVxgEAAAAJ&hl=en) (University of Vermont; Professor, Departments of Psychiatry and Psychology) is our featured speaker this month. Hugh is a cognitive neuroscientist with very extensive experience using structural and functional neuroimaging to study cognitive control and reward processes, particularly in adolescent development, including addiction and mental health issues. He has notable leadership roles and contributions to a spectrum of longitudinal high impact neuroimaging studies and with large data sets of brain and behavioral development, including Site PI and Associate Director roles for the Adolescent Brain Cognitive Development ([ABCD](https://abcdstudy.org)) and Healthy Brain Child Development ([HBCD](https://hbcdstudy.org)) studies, as well as co-founder of the [ENIGMA-Addiction working group](https://www.enigmaaddictionconsortium.com), and a co-investigator on the [IMAGEN](https://www.imagen-project.org/the-project) project.  
+
+Presentation Title: “Capturing individual differences in ABCD: Insights into task fMRI and cannabis use.”
+
+[Video Presentation](https://youtu.be/fJZ9cBuUePo) and [Slides](https://drive.google.com/drive/folders/1j7DE03ZctL2-081Ym3J9ybchstJ_Q3Xs) are now available.
 
 ### Friday, May 1, 2026 at 2pm ET
 
