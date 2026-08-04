@@ -11,7 +11,7 @@ An [NIH Data Management and Sharing Plan](https://grants.nih.gov/grants-process/
 
 In the following, we give some high level suggestions on creating an effective DMSP using ReproNim principles, tools, and practices and provide some sample DMSPs that utilize these practices.  In some cases we provide several options, ranked from good/basic to best/advanced.  Generally the more advanced options require additional effort to implement.  We also provide some guidance on preparing a DMSP budget for implementing the plan.
 
-Below, we reproduce the template from the [Data Management and Sharing Plan Format Page](https://grants.nih.gov/sites/default/files/uploaded/DMS-Plan-blank-format-page.docx) (DOCX, 36 KB), including numbered elements, lettered subsections, and instructions (in italics).  Bullet points contain ReproNim suggestions.
+Below, we reproduce the template from the [Data Management and Sharing Plan Format Page](https://grants.nih.gov/sites/default/files/uploaded/DMS-Plan-blank-format-page.docx) (DOCX, 36 KB), including numbered elements, lettered subsections, and instructions (in italics).  Bullet points contain ReproNim suggestions. Additional resources are available to assist with Data Management and Sharing Plan preparation, see [NITRC’s DMSP Project](https://www.nitrc.org/projects/dsmp), for example.
 
 ### Element 1: Data Type
 
