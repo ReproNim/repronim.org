@@ -20,8 +20,6 @@ Browse our complete collection of ReproNim webinars via:
 ReproNim's 'First Fridays' monthly webinars will resume on Friday, October 2, for the 2026-2027 season.
 
 
-
-
 ## Webinar presentations to date
 
 ### Friday, June 5, 2026 at 2pm ET
@@ -30,7 +28,7 @@ ReproNim's 'First Fridays' monthly webinars will resume on Friday, October 2, fo
 
 Presentation Title: “Capturing individual differences in ABCD: Insights into task fMRI and cannabis use.”
 
-[Video Presentation](https://youtu.be/fJZ9cBuUePo) and [Slides](https://drive.google.com/drive/folders/1j7DE03ZctL2-081Ym3J9ybchstJ_Q3Xs) are now available.
+Video Presentation: [YouTube](https://youtu.be/fJZ9cBuUePo), [ReproTube](https://datasets.datalad.org/repronim/ReproTube/ReproNim/web/#/video/fJZ9cBuUePo) and [Slides](https://drive.google.com/drive/folders/1j7DE03ZctL2-081Ym3J9ybchstJ_Q3Xs).
 
 ### Friday, May 1, 2026 at 2pm ET
 
