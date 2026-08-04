@@ -22,6 +22,7 @@ For a general orientation to ReproNim resources, we suggest reviewing the [Getti
 - [Nipoppy](nipoppy/index.html): A command line tool to manage a complete neuroimaging processing workflow.
 - [PyNIDM](pynidm/index.html): A command line tool for working with NIDM data.
 - [ReproSchema](reproschema/index.html): A tool for defining, sharing, and reusing structured research protocols, enabling versioning and interoperability across studies.
+- [ReproStim](reprostim/index.html): Automated capture of audio-visual stimuli into BIDS datasets.
 
 ## Infrastructure
 
@@ -42,7 +43,6 @@ In addition to our [Core Tools](#core-tools), ReproNim has developed an extensiv
 * [reproflow](https://github.com/ReproNim/reproflow) - Materials for ReproFlow: ReproNim tools to establish scalable and automated MRI and behavioral data acquisition and QC
 * [ReproMan](https://github.com/ReproNim/reproman) - Simplify creation and management of computing environments in Neuroimaging
 * [repromon](https://github.com/ReproNim/repromon) - A service to monitor data acquisition etc to alert if anything goes wrong
-* [reprostim](https://github.com/ReproNim/reprostim) - Automated capture of audio-visual stimuli into BIDS datasets
 * [reprozip](https://github.com/ReproNim/reprozip) - ReproZip is a tool that simplifies the process of creating reproducible experiments from command-line executions, a frequently-used common denominator in computational science.
 * [testkraken](https://github.com/ReproNim/testkraken) - Generalized regression testing of scientific workflows
 
