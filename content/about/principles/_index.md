@@ -98,5 +98,5 @@ As indicated by the blue highlights in the figure below, four core actions are k
 
 ![A diagram showing how ReproNim's principles and core actions work together to reproducible neuroimaging.](/images/principles-of-neuroimaging.jpg)
 
-> **See also:** [STAMPED Principles](https://stamped-principles.org/) — a complimentary vocabulary (**S**elf-contained, **T**racked, **A**ctionable, **M**odular, **P**ortable, **E**phemeral, **D**istributable) that consolidates the ReproNim principles into an actionable checklist for individual research objects. STAMPED builds on the earlier [YODA Principles](https://github.com/myyoda) developed by ReproNim and the DataLad Collaborating Project.
+> **See also:** [STAMPED Principles](https://stamped-principles.org/) — a complementary vocabulary (**S**elf-contained, **T**racked, **A**ctionable, **M**odular, **P**ortable, **E**phemeral, **D**istributable) that consolidates the ReproNim principles into an actionable checklist for individual research objects. STAMPED builds on the earlier [YODA Principles](https://github.com/myyoda) developed by ReproNim and the DataLad Collaborating Project.
 
