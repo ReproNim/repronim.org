@@ -9,7 +9,7 @@ The ReproNim webinar series introduces important efforts in reproducibility feat
 
 Browse our complete collection of ReproNim webinars via:
 
-- [YouTube channel](https://www.youtube.com/channel/UCGX2sXmEgDuUGWHDSiT1NdQ/videos) — original videos.
+- [YouTube playlist](https://www.youtube.com/channel/UCGX2sXmEgDuUGWHDSiT1NdQ/videos) — original videos.
 - [Slides](https://drive.google.com/drive/folders/1xqgWtghspJtxa8hmC4d6_zUPCgpe4fp-) — Google Drive folder.
 - [ReproTube](https://datasets.datalad.org/repronim/ReproTube/ReproNim/web/#/?playlists=PLs3CA4ShM1DUX0nTMKfoB8Z6kdrZpByLa) — offline backup of the ReproNim webinar playlist, with full-text caption search, built with [annextube](https://github.com/con/annextube).
 
