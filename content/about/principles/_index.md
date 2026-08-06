@@ -97,3 +97,6 @@ As indicated by the blue highlights in the figure below, four core actions are k
    Containers provide a portable and self-contained environment for running software, ensuring that the analysis can be executed consistently across different computing environments (Principle 3). Containers encapsulate all of the software dependencies needed to run an analysis, making it easier to share software (Principle 4) and reproduce results.
 
 ![A diagram showing how ReproNim's principles and core actions work together to reproducible neuroimaging.](/images/principles-of-neuroimaging.jpg)
+
+> **See also:** [STAMPED Principles](https://stamped-principles.org/) — a complementary vocabulary (**S**elf-contained, **T**racked, **A**ctionable, **M**odular, **P**ortable, **E**phemeral, **D**istributable) that consolidates the ReproNim principles into an actionable checklist for individual research objects. STAMPED builds on the earlier [YODA Principles](https://github.com/myyoda) developed by ReproNim and the DataLad Collaborating Project.
+
