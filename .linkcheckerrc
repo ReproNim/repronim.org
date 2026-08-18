@@ -5,6 +5,7 @@ threads=1
 [filtering]
 ignore =
   # Sites which do not resolve for link checker (prohibited bots etc) hand-checked prior to being ignored
+  ^austinfakelink
   ^https://abcdstudy\.org/about/
   ^https://childmind\.org/bio/michael-p-milham-md-phd/
   ^https://coinstac\.org/
