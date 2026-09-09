@@ -152,7 +152,7 @@ Blue markers are Collaborative Projects; Red markers are Service Projects.
 - CP9: [Resource For Quantitative Functional MRI](https://reporter.nih.gov/search/KGSiA7EzWkarw7-gqQAF1A/project-details/9997686)
     - [Michael I. Miller](https://profiles.hopkinsmedicine.org/provider/michael-i-miller/2777214) (PI)
     - Institution: Johns Hopkins University
-- CP10: [ENIGMA Center for Worldwide Medicine, Imaging and Genomics](https://grantome.com/grant/NIH/U54-EB020403-01)
+- CP10: [ENIGMA Center for Worldwide Medicine, Imaging and Genomics](https://reporter.nih.gov/project-details/8774373)
     - [Paul Thompson](https://keck.usc.edu/faculty-search/paul-m-thompson/) (PI)
     - Institution: University of Southern California
       

@@ -47,7 +47,7 @@ It is possible to interact with BIDS using:
 ## Links
 
 - Home page: https://bids.neuroimaging.io/
-- Tutorial: https://bids-standard.github.io/bids-starter-kit/
+- Tutorial: https://bids.neuroimaging.io/getting_started/index.html
 - Full documentation: https://bids.neuroimaging.io/specification.html
 - How to get help: https://bids.neuroimaging.io/get_involved.html
 

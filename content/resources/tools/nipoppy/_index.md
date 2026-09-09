@@ -30,7 +30,7 @@ Please cite this tool using its Research Resource ID: [RRID:SCR_027826](https://
 - Home page: https://nipoppy.readthedocs.io/en/stable/
 - Tutorial: https://nipoppy.readthedocs.io/en/stable/overview/quickstart/index.html
 - Installation: https://nipoppy.readthedocs.io/en/latest/overview/installation.html
-- Full documentation: https://nipoppy.readthedocs.io/en/stable/how_to_guides/user_guide/index.html
+- Full documentation: https://nipoppy.readthedocs.io/en/stable/
 - Testimonial: https://www.linkedin.com/posts/evavanheese789_you-only-realise-how-important-infrastructure-activity-7220000830463053828-QdDy
 
 ## Representative publications
