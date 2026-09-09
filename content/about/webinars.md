@@ -244,7 +244,7 @@ Our own [David Kennedy](https://profiles.umassmed.edu/display/130002) (ReproNim 
 [Slides](https://docs.google.com/presentation/d/1MkW5heQLe-zKRoGOF2PgrF1XKIHaUCWBxE1-9SBFlTM/edit#slide=id.g154688a9f52_0_408) are now available.
 
 ### Friday, December 2, 2022 at 2pm EST
-Special guest [Keith Bush](https://uams-triprofiles.uams.edu/profiles/display/1802861) shares his wisdom and experience in implementing best practices and tools for enhancing the rigor and reproducibility of neuroimaging throughout the [Brain Imaging Research Center at the University of Arkansas for Medical Sciences](https://psychiatry.uams.edu/birc/) with a presentation on Transitioning a Neuroimaging Research Center to Open and Reproducible Science: A Case Study. See his [recent publication](https://www.frontiersin.org/articles/10.3389/fdata.2022.988084/full) on lessons learned!
+Special guest [Keith Bush](https://www.linkedin.com/in/keithabush) shares his wisdom and experience in implementing best practices and tools for enhancing the rigor and reproducibility of neuroimaging throughout the [Brain Imaging Research Center at the University of Arkansas for Medical Sciences](https://psychiatry.uams.edu/birc/) with a presentation on Transitioning a Neuroimaging Research Center to Open and Reproducible Science: A Case Study. See his [recent publication](https://www.frontiersin.org/articles/10.3389/fdata.2022.988084/full) on lessons learned!
 
 [Video Presentation](https://youtu.be/zFr8DyTGhxQ) and
 [Slides](https://drive.google.com/drive/folders/1B0EyiRsOP8-cBKD3SZDxGT9jZYCALlTC) are now available.

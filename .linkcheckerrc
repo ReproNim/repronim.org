@@ -34,6 +34,7 @@ ignore =
   ^https://matter\.childmind\.org/
   ^https://www\.linknovate\.com/
   ^https://www\.amacad\.org/person/
+  ^https://www\.linkedin\.com/
   ^https://www\.humanbrainmapping\.org/i4a/pages/
   # Unreachable from GitHub Actions runners (connect/read timeout) but resolves elsewhere
   ^https://.*\.nmr\.mgh\.harvard\.edu/
