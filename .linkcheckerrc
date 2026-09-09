@@ -32,6 +32,7 @@ ignore =
   # Blocks scripted user agents (403 to curl/linkchecker) but works in a real browser
   ^https://contecenter\.uci\.edu/overall-center/
   ^https://matter\.childmind\.org/
+  ^https://www\.linknovate\.com/
   ^https://www\.humanbrainmapping\.org/i4a/pages/
   # Unreachable from GitHub Actions runners (connect/read timeout) but resolves elsewhere
   ^https://.*\.nmr\.mgh\.harvard\.edu/

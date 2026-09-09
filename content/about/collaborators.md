@@ -67,10 +67,10 @@ The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, 
     - Franco Pestilli (PI)
     - Institution: University of Texas at Austin
 - CP7: [DataLad: Versatile Platform for Digital Logistics](https://www.datalad.org/)
-    - [Michael Hanke](https://www.psychoinformatics.de/persons/) (PI)
+    - [Michael Hanke](https://www.abcd-j.de/contributors/michael-hanke/) (PI)
     - Institution: Research Center Julich
-- CP8: [Reproducible Imaging-based Brain Growth Charts for Psychiatry](https://www.pennlinc.io/studies)
-    - [Theodore Satterthwaite](https://www.pennlinc.io/team/ted-satterthwaite) (PI)
+- CP8: [Reproducible Imaging-based Brain Growth Charts for Psychiatry](https://www.pennlinc.io/)
+    - [Theodore Satterthwaite](https://www.med.upenn.edu/apps/faculty/index.php/g332/p6526095) (PI)
     - Institution: University of Pennsylvania
 - CP9: [Adolescent Brain and Cognitive Development (ABCD)](https://abcdstudy.org/about/)
     - [Anders Dale](https://profiles.ucsd.edu/anders.dale)
@@ -91,7 +91,7 @@ The P41 Center provides their technology to Service Projects (SPs) that serve as
     - [Susan Bookheimer](https://bri.ucla.edu/people/susan-bookheimer/) (PI)
     - Institution: University of California at Los Angeles
 - SP2: [Environment, Epigenetics, Neurodevelopment & Health of Extremely Preterm Children](https://elgan.fpg.unc.edu/)
-    - [Michael O'Shea](https://web.archive.org/web/20250323133550/https://www.med.unc.edu/childrensresearch/directory/michael-oshea-md-mph/) and [Rebecca Fry](https://sph.unc.edu/adv_profile/rebecca-fry-phd/) (PIs)
+    - [Michael O'Shea](https://www.med.unc.edu/pediatrics/people/t-michael-oshea-md-mph/) and [Rebecca Fry](https://sph.unc.edu/adv_profile/rebecca-fry-phd/) (PIs)
     - Institution:University of North Carolina at Chapel Hill
 - SP3: [Neuroscience Gateway to Enable Dissemination of Computational and Data Processing Tools and Software](https://www.nsgportal.org/overview.html)
     - [Amitava Majumdar](https://www.sdsc.edu/~majumdar/) and [Kenneth Yoshimoto](https://profiles.ucsd.edu/kenneth.yoshimoto) and [Subhashini Sivagnanam](https://users.sdsc.edu/~sivagnan/) (PIs)
@@ -99,7 +99,7 @@ The P41 Center provides their technology to Service Projects (SPs) that serve as
 - SP4: [CRCNS: NeuroBridge: Connecting Big Data for Reproducible Clinical Neuroscience](https://neurobridges.org/)
     - [Lei Wang](https://www.linkedin.com/in/lei-wang-3071759) (PI)
     - Institution: Ohio State University
-- SP5: [EAGER: Community Building and Workflows for Data Sharing with Publicly Accessible and Consumable Metadata](https://web.archive.org/web/20250805170804/https://www.linknovate.com/grant/eager-community-building-and-workflows-for-data-sharing-with-publicly-accessible-and-consumable-metadata-317869/)
+- SP5: [EAGER: Community Building and Workflows for Data Sharing with Publicly Accessible and Consumable Metadata](https://www.linknovate.com/grant/eager-community-building-and-workflows-for-data-sharing-with-publicly-accessible-and-consumable-metadata-317869/)
     - [Brian Nosek](https://med.virginia.edu/faculty/faculty-listing/ban2b/) (PI)
     - Institution: University of Virginia/Center for Open Science
 - SP6: [Fragmented Early-life Experiences, Aberrant Circuit Maturation, Emotional Vulnerabilities](https://contecenter.uci.edu/overall-center/)
