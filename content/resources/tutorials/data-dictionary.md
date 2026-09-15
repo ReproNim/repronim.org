@@ -29,7 +29,7 @@ Here we will learn how to create a data dictionary / annotation file “particip
 
 Before diving into the conversion process, it's important to familiarize yourself with the following:
 
-* **BIDS (Brain Imaging Data Structure):** A widely adopted standard for organizing neuroimaging data. BIDS enforces a specific directory structure and file naming conventions, promoting data organization, shareability, and compatibility with various analysis tools.  We recommend visiting the [BIDS website](https://bids.neuroimaging.io/index.html) and browsing the [BIDS starter kit](https://bids-standard.github.io/bids-starter-kit/)  
+* **BIDS (Brain Imaging Data Structure):** A widely adopted standard for organizing neuroimaging data. BIDS enforces a specific directory structure and file naming conventions, promoting data organization, shareability, and compatibility with various analysis tools.  We recommend visiting the [BIDS website](https://bids.neuroimaging.io/index.html) and browsing the [BIDS starter kit](https://bids.neuroimaging.io/getting_started/index.html)  
 * **Python**:  The PyNIDM bidsmri2nidm.py requires the ability to run a python script from the terminal window.
 
 ## Step by step guide
