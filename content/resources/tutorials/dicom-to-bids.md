@@ -29,7 +29,7 @@ Here we will learn how to convert data coming off the scanner as **DICOM** files
 Before diving into the conversion process, it's important to familiarize yourself with the following:
 
 * **DICOM (Digital Imaging and Communications in Medicine):** The standard format for medical imaging data, including neuroimaging. DICOM files store both image data and metadata in a complex structure, making it challenging to work with directly for analysis.
-* **BIDS (Brain Imaging Data Structure):** A widely adopted standard for organizing neuroimaging data. BIDS enforces a specific directory structure and file naming conventions, promoting data organization, shareability, and compatibility with various analysis tools.  We recommend visiting the [BIDS website](https://bids.neuroimaging.io/index.html) and browsing the [BIDS starter kit](https://bids-standard.github.io/bids-starter-kit/)
+* **BIDS (Brain Imaging Data Structure):** A widely adopted standard for organizing neuroimaging data. BIDS enforces a specific directory structure and file naming conventions, promoting data organization, shareability, and compatibility with various analysis tools.  We recommend visiting the [BIDS website](https://bids.neuroimaging.io/index.html) and browsing the [BIDS starter kit](https://bids.neuroimaging.io/getting_started/index.html)
 * **Python**:  HeuDiConv requires creating a script in Python.
 
 ## Step by step guide

@@ -67,10 +67,10 @@ The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, 
     - Franco Pestilli (PI)
     - Institution: University of Texas at Austin
 - CP7: [DataLad: Versatile Platform for Digital Logistics](https://www.datalad.org/)
-    - [Michael Hanke](https://www.psychoinformatics.de/lab-members.html) (PI)
+    - [Michael Hanke](https://www.abcd-j.de/contributors/michael-hanke/) (PI)
     - Institution: Research Center Julich
-- CP8: [Reproducible Imaging-based Brain Growth Charts for Psychiatry](https://www.pennlinc.io/studies)
-    - [Theodore Satterthwaite](https://www.med.upenn.edu/bbl/faculty-tsatterthwaithe.html) (PI)
+- CP8: [Reproducible Imaging-based Brain Growth Charts for Psychiatry](https://www.pennlinc.io/)
+    - [Theodore Satterthwaite](https://www.med.upenn.edu/apps/faculty/index.php/g332/p6526095) (PI)
     - Institution: University of Pennsylvania
 - CP9: [Adolescent Brain and Cognitive Development (ABCD)](https://abcdstudy.org/about/)
     - [Anders Dale](https://profiles.ucsd.edu/anders.dale)
@@ -91,7 +91,7 @@ The P41 Center provides their technology to Service Projects (SPs) that serve as
     - [Susan Bookheimer](https://bri.ucla.edu/people/susan-bookheimer/) (PI)
     - Institution: University of California at Los Angeles
 - SP2: [Environment, Epigenetics, Neurodevelopment & Health of Extremely Preterm Children](https://elgan.fpg.unc.edu/)
-    - [Michael O'Shea](https://www.med.unc.edu/childrensresearch/directory/michael-oshea-md-mph/) and [Rebecca Fry](https://sph.unc.edu/adv_profile/rebecca-fry-phd/) (PIs)
+    - [Michael O'Shea](https://www.med.unc.edu/pediatrics/people/t-michael-oshea-md-mph/) and [Rebecca Fry](https://sph.unc.edu/adv_profile/rebecca-fry-phd/) (PIs)
     - Institution:University of North Carolina at Chapel Hill
 - SP3: [Neuroscience Gateway to Enable Dissemination of Computational and Data Processing Tools and Software](https://www.nsgportal.org/overview.html)
     - [Amitava Majumdar](https://www.sdsc.edu/~majumdar/) and [Kenneth Yoshimoto](https://profiles.ucsd.edu/kenneth.yoshimoto) and [Subhashini Sivagnanam](https://users.sdsc.edu/~sivagnan/) (PIs)
@@ -137,7 +137,7 @@ Blue markers are Collaborative Projects; Red markers are Service Projects.
 - CP4: [Neuroimaging Analysis Center (NAC)](https://reporter.nih.gov/search/fZVaZ3oL9Ue4UfYBK5SyDA/project-details/9300935)
     - [Ron Kikinis](https://spl.harvard.edu/people/ron-kikinis)
     - Institution: Brigham and Women’s/Harvard Medical School
-- CP5: [Tracing the template: Investigating the representation of perceptual relevance](https://www.psychoinformatics.de/research.html)
+- CP5: [Tracing the template: Investigating the representation of perceptual relevance](https://www.psychoinformatics.de/projects/)
     - [Michael Hanke](https://www.trr379.de/contributors/michael-hanke/)
     - Institution: Otto-von-Guericke University
 - CP6: [The XNAT Imaging Informatics Platform](https://reporter.nih.gov/search/nSJCqD2ArUG8bdAEYeeUBA/project-details/10002330)
@@ -152,7 +152,7 @@ Blue markers are Collaborative Projects; Red markers are Service Projects.
 - CP9: [Resource For Quantitative Functional MRI](https://reporter.nih.gov/search/KGSiA7EzWkarw7-gqQAF1A/project-details/9997686)
     - [Michael I. Miller](https://profiles.hopkinsmedicine.org/provider/michael-i-miller/2777214) (PI)
     - Institution: Johns Hopkins University
-- CP10: [ENIGMA Center for Worldwide Medicine, Imaging and Genomics](https://grantome.com/grant/NIH/U54-EB020403-01)
+- CP10: [ENIGMA Center for Worldwide Medicine, Imaging and Genomics](https://reporter.nih.gov/project-details/8774373)
     - [Paul Thompson](https://keck.usc.edu/faculty-search/paul-m-thompson/) (PI)
     - Institution: University of Southern California
       

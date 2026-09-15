@@ -46,6 +46,5 @@ Experimental stimuli are typically documented only by the code that was intended
 - Singularity containers: https://datasets.datalad.org/?dir=/repronim/containers/images/repronim (files named `repronim-reprostim--*.sif`, distributed via [ReproNim/containers](https://github.com/ReproNim/containers))
 - How to get help:
   - https://github.com/ReproNim/reprostim/issues
-  - https://neurostars.org/tag/reprostim
 
 ## Representative publications
