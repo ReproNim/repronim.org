@@ -39,6 +39,7 @@ ignore =
   # Unreachable from GitHub Actions runners (connect/read timeout) but resolves elsewhere
   ^https://.*\.nmr\.mgh\.harvard\.edu/
   ^https://www\.martinos\.org/
+  ^https://connects\.mgh\.harvard\.edu/
 
 [output]
 ignoreerrors=
