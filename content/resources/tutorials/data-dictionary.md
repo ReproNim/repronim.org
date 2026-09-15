@@ -19,7 +19,7 @@ Converting your DICOM data to BIDS is a great first step in making your data mor
 
 ## Exercise
 
-Here we will learn how to create a data dictionary / annotation file “participants.json” for a simple  dataset containing 2 variables: “Gender” and “Age”.  Gender is a categorical variable encoding “M” for male and “F” for female.  Age is an integer variable encoding the age of the participant in years after birth.  Further, because we want to enable searching for this dataset across varying BIDS datasets, we’ll associate concepts with the “gender” and “age” variables, creating a “participants.json” data dictionary file to make your BIDS dataset somewhat self-describing and annotated for other uses and for search engines.  
+Here we will learn how to create a data dictionary / annotation file “participants.json” for a simple BIDS dataset containing 2 variables: “Gender” and “Age”.  Gender is a categorical variable encoding “M” for male and “F” for female.  Age is an integer variable encoding the age of the participant in years after birth.  Further, because we want to enable searching for this dataset across varying BIDS datasets, we’ll associate concepts with the “gender” and “age” variables, creating a “participants.json” data dictionary file to make your BIDS dataset somewhat self-describing and annotated for other uses and for search engines.  
 
 ![Diagram illustrating the structure of a BIDS dataset.](/images/data_dictionary.png)
 
