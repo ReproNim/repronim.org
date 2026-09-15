@@ -7,7 +7,7 @@ toc: false
     h2, p { text-align: center; }
 </style>
 
-A national biotechnology development center dedicated to developing tools and services to increase efficiency, rigor, reproducibility, transparency and FAIRness in neuroimaging.
+A national biotechnology development center (P41) dedicated to developing tools and services to increase efficiency, rigor, reproducibility, transparency and FAIRness in neuroimaging.
 
 {{< rn-buttons >}}
     {{< rn-button 
