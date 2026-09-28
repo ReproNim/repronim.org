@@ -15,7 +15,7 @@ Browse our complete collections of ReproNim webinar [videos](https://www.youtube
 
 ReproNim Fellowship alum [James Kent](https://jdkent.github.io/) (Research Associate, University of Texas at Austin) is our featured speaker this month. James is the technical lead for [NeuroSynth 2.0](https://neurosynth.org/) and the lead backend developer for [Neurosynth Compose](https://compose.neurosynth.org/), and actively involved with the open science community as well.
 
-Presentation Title: To be Announced
+Presentation Title: "Large scale extraction of structured information from neuroimaging articles for meta-analysis and meta-science (LLMs are involved)."
 
 [Webinar Registration](https://umassmed.zoom.us/meeting/register/mhxcAm_7R_msH3__kO0Lgg)
 
