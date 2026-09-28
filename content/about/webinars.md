@@ -11,14 +11,28 @@ Browse our complete collections of ReproNim webinar [videos](https://www.youtube
 
 ## Upcoming webinars
 
-### Summer Hiatus (July-September, 2026)
+### Friday, October 2, 2026 at 2pm ET
 
-ReproNim's 'First Fridays' monthly webinars will resume on Friday, October 2, for the 2026-2027 season.
+ReproNim Fellowship alum [James Kent](https://jdkent.github.io/) (Research Associate, University of Texas at Austin) is our featured speaker this month. James is the technical lead for [NeuroSynth 2.0](https://neurosynth.org/) and the lead backend developer for [Neurosynth Compose](https://compose.neurosynth.org/), and actively involved with the open science community as well.
 
+Presentation Title: To be Announced
 
+[Webinar Registration](https://umassmed.zoom.us/meeting/register/mhxcAm_7R_msH3__kO0Lgg)
+
+Video Presentation and Slides will be made available as soon as possible following the presentation.
+
+### Friday, November 6, 2026 at 2pm ET
+
+ReproNim Fellowship alum [Chris Rorden](https://cstar.sc.edu/chris-rorden/) (University South Carolina) is our featured speaker this month.
+
+### Friday, December 4, 2026 at 2pm ET
+
+ReproNim Fellowship alum [Steven Meisler](https://www.pennlinc.io/team/steven-meisler) (University Pennsylvania)is our featured speaker this month.
 
 
 ## Webinar presentations to date
+
+### Summer Hiatus (July-September, 2026)
 
 ### Friday, June 5, 2026 at 2pm ET
 
