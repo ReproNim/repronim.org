@@ -13,7 +13,7 @@ Browse our complete collections of ReproNim webinar [videos](https://www.youtube
 
 ### Friday, October 2, 2026 at 2pm ET
 
-ReproNim Fellowship alum [James Kent](https://jdkent.github.io/) (Research Associate, University of Texas at Austin) is our featured speaker this month. James is the technical lead for [NeuroSynth 2.0](https://neurosynth.org/) and the lead backend developer for [Neurosynth Compose](https://compose.neurosynth.org/), and actively involved with the open science community as well.
+ReproNim/INCF Fellowship alum [James Kent](https://jdkent.github.io/) (Research Associate, University of Texas at Austin) is our featured speaker this month. James is the technical lead for [NeuroSynth 2.0](https://neurosynth.org/) and the lead backend developer for [Neurosynth Compose](https://compose.neurosynth.org/), and actively involved with the open science community as well.
 
 Presentation Title: "Large scale extraction of structured information from neuroimaging articles for meta-analysis and meta-science (LLMs are involved)."
 
@@ -23,11 +23,11 @@ Video Presentation and Slides will be made available as soon as possible followi
 
 ### Friday, November 6, 2026 at 2pm ET
 
-ReproNim Fellowship alum [Chris Rorden](https://cstar.sc.edu/chris-rorden/) (University South Carolina) is our featured speaker this month.
+ReproNim/INCF Fellowship alum [Chris Rorden](https://cstar.sc.edu/chris-rorden/) (University South Carolina) is our featured speaker this month.
 
 ### Friday, December 4, 2026 at 2pm ET
 
-ReproNim Fellowship alum [Steven Meisler](https://www.pennlinc.io/team/steven-meisler) (University Pennsylvania)is our featured speaker this month.
+ReproNim/INCF Fellowship alum [Steven Meisler](https://www.pennlinc.io/team/steven-meisler) (University Pennsylvania)is our featured speaker this month.
 
 
 ## Webinar presentations to date
