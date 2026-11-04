@@ -14,11 +14,14 @@ Browse our complete collections of ReproNim webinar [videos](https://www.youtube
 
 ### Friday, November 6, 2026 at 2pm ET
 
-ReproNim/INCF Fellowship alum [Chris Rorden](https://cstar.sc.edu/chris-rorden/) (University South Carolina) is our featured speaker this month.
+ReproNim/INCF Fellowship alum [Chris Rorden](https://cstar.sc.edu/chris-rorden/) (University South Carolina) is our featured speaker this month.Chris is the Endowed Chair in Neuroimaging at the USC Department of Psychology, and the Co-Director of the McCausland Center for Brain Imaging there as well. He is also the Lead for the Neuroimaging Core of the Center for the Study of Aphasia Recovery (C-STAR), among numerous projects!
 
-Presentation Title: To be announced
+Presentation Title: “Modular, Open Tools for Next-Generation Brain Imaging.” 
 
 [Webinar Registration](https://umassmed.zoom.us/meeting/register/mhxcAm_7R_msH3__kO0Lgg)
+
+
+Abstract: Newer MRI scanners produce far more data than older ones, and curating and processing it is still slow and frustrating. That slows down reproducible research. I'll show a set of small, open-source tools that try to make each step easier. BIDSvue is a graphical tool to convert, anonymize, deface, describe and share data, including physiological and MRS data. NiiVue is a WebGL2/WebGPU viewer used by AFNI, FreeSurfer, FSL, OpenNeuro, brainlife and others, and it also runs in Jupyter through ipyniivue. Fastprep brings undistortion, multi-echo denoising, normalization and AI-based segmentation down from hours to seconds, on any GPU and right in the browser. I'll show these tools on real data from our Brain Health Center and the Aphasia Recovery Cohort, and on stroke data from 1,715 survivors shared on OpenNeuro. The tools are fast, have few dependencies, and use permissive licenses. Because they're modular, they can be combined, including by AI agents working on new problems. They run on Linux, macOS, Windows and the web.
 
 Video Presentation and Slides will be made available as soon as possible following the presentation.
 
